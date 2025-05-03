@@ -1,0 +1,1111 @@
+{
+  "participantId": "P415292",
+  "prolificId": "valid-data-keep-and-use",
+  "startTime": "2025-05-03T12:05:26.468Z",
+  "endTime": null,
+  "completionTime": null,
+  "indifferencePoints": [
+    {
+      "probability": 1,
+      "indifferencePoint": 1.40625
+    },
+    {
+      "probability": 0.75,
+      "indifferencePoint": 3.90625
+    },
+    {
+      "probability": 0.5,
+      "indifferencePoint": 3.90625
+    },
+    {
+      "probability": 0.2,
+      "indifferencePoint": 8.90625
+    },
+    {
+      "probability": 0.05,
+      "indifferencePoint": 6.40625
+    },
+    {
+      "probability": 1,
+      "indifferencePoint": 8.90625
+    },
+    {
+      "probability": 0.75,
+      "indifferencePoint": 6.40625
+    },
+    {
+      "probability": 0.5,
+      "indifferencePoint": 1.40625
+    },
+    {
+      "probability": 0.2,
+      "indifferencePoint": 3.59375
+    },
+    {
+      "probability": 0.05,
+      "indifferencePoint": 1.40625
+    },
+    {
+      "probability": 1,
+      "indifferencePoint": 10.9375
+    },
+    {
+      "probability": 0.75,
+      "indifferencePoint": 10.9375
+    },
+    {
+      "probability": 0.5,
+      "indifferencePoint": 14.0625
+    },
+    {
+      "probability": 0.2,
+      "indifferencePoint": 10.9375
+    },
+    {
+      "probability": 0.05,
+      "indifferencePoint": 10.9375
+    },
+    {
+      "probability": 1,
+      "indifferencePoint": 10.9375
+    },
+    {
+      "probability": 0.75,
+      "indifferencePoint": 89.0625
+    },
+    {
+      "probability": 0.5,
+      "indifferencePoint": 39.0625
+    },
+    {
+      "probability": 0.2,
+      "indifferencePoint": 14.0625
+    },
+    {
+      "probability": 0.05,
+      "indifferencePoint": 64.0625
+    }
+  ],
+  "rawData": [
+    {
+      "probability": 1,
+      "indifferencePoint": 1.40625,
+      "trials": [
+        {
+          "certainAmount": 5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 2.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 2.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 1.25,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 1.25,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 1.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 1.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 2.1875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 2.1875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        }
+      ]
+    },
+    {
+      "probability": 0.75,
+      "indifferencePoint": 3.90625,
+      "trials": [
+        {
+          "certainAmount": 5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 2.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 2.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 3.75,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 3.75,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 4.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 4.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 4.6875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 4.6875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        }
+      ]
+    },
+    {
+      "probability": 0.5,
+      "indifferencePoint": 3.90625,
+      "trials": [
+        {
+          "certainAmount": 5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 2.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 2.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 3.75,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 3.75,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 4.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 4.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 4.6875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 4.6875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        }
+      ]
+    },
+    {
+      "probability": 0.2,
+      "indifferencePoint": 8.90625,
+      "trials": [
+        {
+          "certainAmount": 5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 7.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 7.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 8.75,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 8.75,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 9.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 9.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 9.6875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 9.6875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        }
+      ]
+    },
+    {
+      "probability": 0.05,
+      "indifferencePoint": 6.40625,
+      "trials": [
+        {
+          "certainAmount": 5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 7.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 7.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 6.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 6.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 7.1875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        },
+        {
+          "certainAmount": 7.1875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10"
+        }
+      ]
+    },
+    {
+      "probability": 1,
+      "indifferencePoint": 8.90625,
+      "trials": [
+        {
+          "certainAmount": 5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 7.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 7.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 8.75,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 8.75,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 9.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 9.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 9.6875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 9.6875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        }
+      ]
+    },
+    {
+      "probability": 0.75,
+      "indifferencePoint": 6.40625,
+      "trials": [
+        {
+          "certainAmount": 5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 7.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 7.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 6.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 6.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 7.1875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 7.1875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        }
+      ]
+    },
+    {
+      "probability": 0.5,
+      "indifferencePoint": 1.40625,
+      "trials": [
+        {
+          "certainAmount": 5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 2.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 2.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 1.25,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 1.25,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 0.625,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 0.625,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 0.9375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 0.9375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        }
+      ]
+    },
+    {
+      "probability": 0.2,
+      "indifferencePoint": 3.59375,
+      "trials": [
+        {
+          "certainAmount": 5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 2.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 2.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 3.75,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 3.75,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 3.125,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 3.125,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 2.8125,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 2.8125,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        }
+      ]
+    },
+    {
+      "probability": 0.05,
+      "indifferencePoint": 1.40625,
+      "trials": [
+        {
+          "certainAmount": 5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 2.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 2.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 1.25,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 1.25,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 1.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 1.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 1.5625,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        },
+        {
+          "certainAmount": 1.5625,
+          "choice": null,
+          "uncertainOutcomeLabel": "$10 pizza"
+        }
+      ]
+    },
+    {
+      "probability": 1,
+      "indifferencePoint": 10.9375,
+      "trials": [
+        {
+          "certainAmount": 50,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 9.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 9.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        }
+      ]
+    },
+    {
+      "probability": 0.75,
+      "indifferencePoint": 10.9375,
+      "trials": [
+        {
+          "certainAmount": 50,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 9.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 9.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        }
+      ]
+    },
+    {
+      "probability": 0.5,
+      "indifferencePoint": 14.0625,
+      "trials": [
+        {
+          "certainAmount": 50,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 3.125,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 3.125,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        }
+      ]
+    },
+    {
+      "probability": 0.2,
+      "indifferencePoint": 10.9375,
+      "trials": [
+        {
+          "certainAmount": 50,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 9.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 9.375,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        }
+      ]
+    },
+    {
+      "probability": 0.05,
+      "indifferencePoint": 10.9375,
+      "trials": [
+        {
+          "certainAmount": 50,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 18.75,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 18.75,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 15.625,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        },
+        {
+          "certainAmount": 15.625,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100 pizza"
+        }
+      ]
+    },
+    {
+      "probability": 1,
+      "indifferencePoint": 10.9375,
+      "trials": [
+        {
+          "certainAmount": 50,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 18.75,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 18.75,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 21.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 21.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        }
+      ]
+    },
+    {
+      "probability": 0.75,
+      "indifferencePoint": 89.0625,
+      "trials": [
+        {
+          "certainAmount": 50,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 75,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 75,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 87.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 87.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 93.75,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 93.75,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 96.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 96.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        }
+      ]
+    },
+    {
+      "probability": 0.5,
+      "indifferencePoint": 39.0625,
+      "trials": [
+        {
+          "certainAmount": 50,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 37.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 37.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 43.75,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 43.75,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 46.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 46.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        }
+      ]
+    },
+    {
+      "probability": 0.2,
+      "indifferencePoint": 14.0625,
+      "trials": [
+        {
+          "certainAmount": 50,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 25,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 12.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 6.25,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 3.125,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 3.125,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        }
+      ]
+    },
+    {
+      "probability": 0.05,
+      "indifferencePoint": 64.0625,
+      "trials": [
+        {
+          "certainAmount": 50,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 75,
+          "choice": "certain",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 75,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 62.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 62.5,
+          "choice": "probabilistic",
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 68.75,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 68.75,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 71.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        },
+        {
+          "certainAmount": 71.875,
+          "choice": null,
+          "uncertainOutcomeLabel": "$100"
+        }
+      ]
+    }
+  ]
+}

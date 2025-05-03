@@ -1,0 +1,829 @@
+{
+  "participantId": "P708946",
+  "startTime": "2025-05-03T13:38:17.819Z",
+  "endTime": "2025-05-03T13:45:29.189Z",
+  "consentGiven": true,
+  "taskResults": [
+    {
+      "label": "$10 Discounting",
+      "maxValue": 10,
+      "unit": "$",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 2.34375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.1875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 4.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 3.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 4.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 4.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 4.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 3.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 4.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 4.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 9.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 9.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 3.90625,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 3.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 4.375,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 4.0625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sushi10 Discounting",
+      "maxValue": 10,
+      "unit": "Sushi",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 3.90625,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 3.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 4.375,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 4.0625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 4.21875,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 3.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 4.375,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 4.0625,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 4.21875,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 3.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 4.375,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 4.0625,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 4.53125,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 3.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 4.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 4.6875,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 9.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            },
+            {
+              "certainAmount": 9.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Sushi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "$100 Discounting",
+      "maxValue": 100,
+      "unit": "$",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 42.1875,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 43.75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 40.625,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 7.8125,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 29.6875,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 31.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 28.125,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 14.0625,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 18.75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 15.625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 35.9375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 31.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 34.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sushi100 Discounting",
+      "maxValue": 100,
+      "unit": "Sushi",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 48.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 43.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 46.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 1.5625,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 3.125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 48.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 43.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 46.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 45.3125,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 43.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 46.875,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 1.5625,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            },
+            {
+              "certainAmount": 3.125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Sushi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fixedChoiceQuestions": [
+    {
+      "id": 13,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33 worth of Sushi",
+      "optionB": "100% Chance of $28 worth of Sushi",
+      "choice": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "B"
+    },
+    {
+      "id": 14,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33 worth of Sushi",
+      "optionB": "100% Chance of $28 worth of Sushi",
+      "choice": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "B"
+    },
+    {
+      "id": 1,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    },
+    {
+      "id": 8,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66 worth of Sushi",
+      "optionB": "100% Chance of $20 worth of Sushi",
+      "choice": "A"
+    },
+    {
+      "id": 18,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33 worth of Sushi",
+      "optionB": "100% Chance of $10 worth of Sushi",
+      "choice": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "B"
+    },
+    {
+      "id": 17,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33 worth of Sushi",
+      "optionB": "100% Chance of $10 worth of Sushi",
+      "choice": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33 worth of Sushi",
+      "optionB": "100% Chance of $28 worth of Sushi",
+      "choice": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33 worth of Sushi",
+      "optionB": "100% Chance of $10 worth of Sushi",
+      "choice": "B"
+    },
+    {
+      "id": 20,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66 worth of Sushi",
+      "optionB": "100% Chance of $56 worth of Sushi",
+      "choice": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66 worth of Sushi",
+      "optionB": "100% Chance of $56 worth of Sushi",
+      "choice": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66 worth of Sushi",
+      "optionB": "100% Chance of $20 worth of Sushi",
+      "choice": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66 worth of Sushi",
+      "optionB": "100% Chance of $20 worth of Sushi",
+      "choice": "A"
+    },
+    {
+      "id": 21,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66 worth of Sushi",
+      "optionB": "100% Chance of $56 worth of Sushi",
+      "choice": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "A"
+    }
+  ],
+  "prolificId": "66d88375799e00b593a8655f",
+  "favoriteFood": "Sushi",
+  "uploadStatus": "failed"
+}

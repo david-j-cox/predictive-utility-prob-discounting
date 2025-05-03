@@ -1,0 +1,205 @@
+participantId,eventType,questionId,question,optionA,optionB,choice,taskLabel,probability,certainAmount,trialIndex,indifferencePoint
+"P9708","fixedChoice",1,"Which would you prefer?","85% Chance of $33","100% Chance of $28","B","","","","",""
+"P9708","fixedChoice",6,"Which would you prefer?","30% Chance of $33","100% Chance of $10","A","","","","",""
+"P9708","fixedChoice",13,"Which would you prefer?","85% Chance of $33 worth of Burrito","100% Chance of $28 worth of Burrito","B","","","","",""
+"P9708","fixedChoice",11,"Which would you prefer?","60% Chance of $66","100% Chance of $20","A","","","","",""
+"P9708","fixedChoice",23,"Which would you prefer?","60% Chance of $66 worth of Burrito","100% Chance of $20 worth of Burrito","B","","","","",""
+"P9708","fixedChoice",2,"Which would you prefer?","60% Chance of $33","100% Chance of $28","B","","","","",""
+"P9708","fixedChoice",10,"Which would you prefer?","85% Chance of $66","100% Chance of $20","A","","","","",""
+"P9708","fixedChoice",15,"Which would you prefer?","30% Chance of $33 worth of Burrito","100% Chance of $28 worth of Burrito","B","","","","",""
+"P9708","fixedChoice",20,"Which would you prefer?","60% Chance of $66 worth of Burrito","100% Chance of $56 worth of Burrito","B","","","","",""
+"P9708","fixedChoice",16,"Which would you prefer?","85% Chance of $33 worth of Burrito","100% Chance of $10 worth of Burrito","A","","","","",""
+"P9708","fixedChoice",18,"Which would you prefer?","30% Chance of $33 worth of Burrito","100% Chance of $10 worth of Burrito","B","","","","",""
+"P9708","fixedChoice",5,"Which would you prefer?","60% Chance of $33","100% Chance of $10","A","","","","",""
+"P9708","fixedChoice",4,"Which would you prefer?","85% Chance of $33","100% Chance of $10","A","","","","",""
+"P9708","fixedChoice",8,"Which would you prefer?","60% Chance of $66","100% Chance of $56","B","","","","",""
+"P9708","fixedChoice",3,"Which would you prefer?","30% Chance of $33","100% Chance of $28","B","","","","",""
+"P9708","fixedChoice",9,"Which would you prefer?","30% Chance of $66","100% Chance of $56","B","","","","",""
+"P9708","fixedChoice",22,"Which would you prefer?","85% Chance of $66 worth of Burrito","100% Chance of $20 worth of Burrito","B","","","","",""
+"P9708","fixedChoice",17,"Which would you prefer?","60% Chance of $33 worth of Burrito","100% Chance of $10 worth of Burrito","A","","","","",""
+"P9708","fixedChoice",7,"Which would you prefer?","85% Chance of $66","100% Chance of $56","B","","","","",""
+"P9708","fixedChoice",12,"Which would you prefer?","30% Chance of $66","100% Chance of $20","A","","","","",""
+"P9708","fixedChoice",24,"Which would you prefer?","30% Chance of $66 worth of Burrito","100% Chance of $20 worth of Burrito","B","","","","",""
+"P9708","fixedChoice",21,"Which would you prefer?","30% Chance of $66 worth of Burrito","100% Chance of $56 worth of Burrito","B","","","","",""
+"P9708","fixedChoice",14,"Which would you prefer?","60% Chance of $33 worth of Burrito","100% Chance of $28 worth of Burrito","B","","","","",""
+"P9708","fixedChoice",19,"Which would you prefer?","85% Chance of $66 worth of Burrito","100% Chance of $56 worth of Burrito","B","","","","",""
+"P9708","discountingTrial","","Which would you prefer?","Burrito50","100% chance of Burrito100","certain","Burrito100 Discounting",1,50,0,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito25","100% chance of Burrito100","certain","Burrito100 Discounting",1,25,1,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito25","100% chance of Burrito100","certain","Burrito100 Discounting",1,25,2,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito12.5","100% chance of Burrito100","certain","Burrito100 Discounting",1,12.5,3,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito12.5","100% chance of Burrito100","certain","Burrito100 Discounting",1,12.5,4,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito6.25","100% chance of Burrito100","","Burrito100 Discounting",1,6.25,5,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito6.25","100% chance of Burrito100","","Burrito100 Discounting",1,6.25,6,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito3.125","100% chance of Burrito100","","Burrito100 Discounting",1,3.125,7,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito3.125","100% chance of Burrito100","","Burrito100 Discounting",1,3.125,8,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito50","75% chance of Burrito100","certain","Burrito100 Discounting",0.75,50,0,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito25","75% chance of Burrito100","certain","Burrito100 Discounting",0.75,25,1,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito25","75% chance of Burrito100","certain","Burrito100 Discounting",0.75,25,2,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito12.5","75% chance of Burrito100","probabilistic","Burrito100 Discounting",0.75,12.5,3,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito12.5","75% chance of Burrito100","certain","Burrito100 Discounting",0.75,12.5,4,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito6.25","75% chance of Burrito100","","Burrito100 Discounting",0.75,6.25,5,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito6.25","75% chance of Burrito100","","Burrito100 Discounting",0.75,6.25,6,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito9.375","75% chance of Burrito100","","Burrito100 Discounting",0.75,9.375,7,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito9.375","75% chance of Burrito100","","Burrito100 Discounting",0.75,9.375,8,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito50","50% chance of Burrito100","certain","Burrito100 Discounting",0.5,50,0,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito25","50% chance of Burrito100","certain","Burrito100 Discounting",0.5,25,1,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito25","50% chance of Burrito100","probabilistic","Burrito100 Discounting",0.5,25,2,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito12.5","50% chance of Burrito100","certain","Burrito100 Discounting",0.5,12.5,3,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito12.5","50% chance of Burrito100","certain","Burrito100 Discounting",0.5,12.5,4,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito18.75","50% chance of Burrito100","","Burrito100 Discounting",0.5,18.75,5,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito18.75","50% chance of Burrito100","","Burrito100 Discounting",0.5,18.75,6,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito15.625","50% chance of Burrito100","","Burrito100 Discounting",0.5,15.625,7,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito15.625","50% chance of Burrito100","","Burrito100 Discounting",0.5,15.625,8,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito50","20% chance of Burrito100","certain","Burrito100 Discounting",0.2,50,0,14.0625
+"P9708","discountingTrial","","Which would you prefer?","Burrito25","20% chance of Burrito100","certain","Burrito100 Discounting",0.2,25,1,14.0625
+"P9708","discountingTrial","","Which would you prefer?","Burrito25","20% chance of Burrito100","probabilistic","Burrito100 Discounting",0.2,25,2,14.0625
+"P9708","discountingTrial","","Which would you prefer?","Burrito12.5","20% chance of Burrito100","certain","Burrito100 Discounting",0.2,12.5,3,14.0625
+"P9708","discountingTrial","","Which would you prefer?","Burrito12.5","20% chance of Burrito100","probabilistic","Burrito100 Discounting",0.2,12.5,4,14.0625
+"P9708","discountingTrial","","Which would you prefer?","Burrito18.75","20% chance of Burrito100","","Burrito100 Discounting",0.2,18.75,5,14.0625
+"P9708","discountingTrial","","Which would you prefer?","Burrito18.75","20% chance of Burrito100","","Burrito100 Discounting",0.2,18.75,6,14.0625
+"P9708","discountingTrial","","Which would you prefer?","Burrito15.625","20% chance of Burrito100","","Burrito100 Discounting",0.2,15.625,7,14.0625
+"P9708","discountingTrial","","Which would you prefer?","Burrito15.625","20% chance of Burrito100","","Burrito100 Discounting",0.2,15.625,8,14.0625
+"P9708","discountingTrial","","Which would you prefer?","Burrito50","5% chance of Burrito100","certain","Burrito100 Discounting",0.05,50,0,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito25","5% chance of Burrito100","certain","Burrito100 Discounting",0.05,25,1,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito25","5% chance of Burrito100","certain","Burrito100 Discounting",0.05,25,2,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito12.5","5% chance of Burrito100","certain","Burrito100 Discounting",0.05,12.5,3,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito12.5","5% chance of Burrito100","certain","Burrito100 Discounting",0.05,12.5,4,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito6.25","5% chance of Burrito100","","Burrito100 Discounting",0.05,6.25,5,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito6.25","5% chance of Burrito100","","Burrito100 Discounting",0.05,6.25,6,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito3.125","5% chance of Burrito100","","Burrito100 Discounting",0.05,3.125,7,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito3.125","5% chance of Burrito100","","Burrito100 Discounting",0.05,3.125,8,10.9375
+"P9708","discountingTrial","","Which would you prefer?","Burrito5","100% chance of Burrito10","probabilistic","Burrito10 Discounting",1,5,0,8.90625
+"P9708","discountingTrial","","Which would you prefer?","Burrito7.5","100% chance of Burrito10","probabilistic","Burrito10 Discounting",1,7.5,1,8.90625
+"P9708","discountingTrial","","Which would you prefer?","Burrito7.5","100% chance of Burrito10","probabilistic","Burrito10 Discounting",1,7.5,2,8.90625
+"P9708","discountingTrial","","Which would you prefer?","Burrito8.75","100% chance of Burrito10","probabilistic","Burrito10 Discounting",1,8.75,3,8.90625
+"P9708","discountingTrial","","Which would you prefer?","Burrito8.75","100% chance of Burrito10","probabilistic","Burrito10 Discounting",1,8.75,4,8.90625
+"P9708","discountingTrial","","Which would you prefer?","Burrito9.375","100% chance of Burrito10","","Burrito10 Discounting",1,9.375,5,8.90625
+"P9708","discountingTrial","","Which would you prefer?","Burrito9.375","100% chance of Burrito10","","Burrito10 Discounting",1,9.375,6,8.90625
+"P9708","discountingTrial","","Which would you prefer?","Burrito9.6875","100% chance of Burrito10","","Burrito10 Discounting",1,9.6875,7,8.90625
+"P9708","discountingTrial","","Which would you prefer?","Burrito9.6875","100% chance of Burrito10","","Burrito10 Discounting",1,9.6875,8,8.90625
+"P9708","discountingTrial","","Which would you prefer?","Burrito5","75% chance of Burrito10","certain","Burrito10 Discounting",0.75,5,0,1.09375
+"P9708","discountingTrial","","Which would you prefer?","Burrito2.5","75% chance of Burrito10","certain","Burrito10 Discounting",0.75,2.5,1,1.09375
+"P9708","discountingTrial","","Which would you prefer?","Burrito2.5","75% chance of Burrito10","probabilistic","Burrito10 Discounting",0.75,2.5,2,1.09375
+"P9708","discountingTrial","","Which would you prefer?","Burrito1.25","75% chance of Burrito10","probabilistic","Burrito10 Discounting",0.75,1.25,3,1.09375
+"P9708","discountingTrial","","Which would you prefer?","Burrito1.25","75% chance of Burrito10","certain","Burrito10 Discounting",0.75,1.25,4,1.09375
+"P9708","discountingTrial","","Which would you prefer?","Burrito1.875","75% chance of Burrito10","","Burrito10 Discounting",0.75,1.875,5,1.09375
+"P9708","discountingTrial","","Which would you prefer?","Burrito1.875","75% chance of Burrito10","","Burrito10 Discounting",0.75,1.875,6,1.09375
+"P9708","discountingTrial","","Which would you prefer?","Burrito2.1875","75% chance of Burrito10","","Burrito10 Discounting",0.75,2.1875,7,1.09375
+"P9708","discountingTrial","","Which would you prefer?","Burrito2.1875","75% chance of Burrito10","","Burrito10 Discounting",0.75,2.1875,8,1.09375
+"P9708","discountingTrial","","Which would you prefer?","Burrito5","50% chance of Burrito10","probabilistic","Burrito10 Discounting",0.5,5,0,6.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito7.5","50% chance of Burrito10","certain","Burrito10 Discounting",0.5,7.5,1,6.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito7.5","50% chance of Burrito10","certain","Burrito10 Discounting",0.5,7.5,2,6.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito6.25","50% chance of Burrito10","probabilistic","Burrito10 Discounting",0.5,6.25,3,6.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito6.25","50% chance of Burrito10","probabilistic","Burrito10 Discounting",0.5,6.25,4,6.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito5.625","50% chance of Burrito10","","Burrito10 Discounting",0.5,5.625,5,6.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito5.625","50% chance of Burrito10","","Burrito10 Discounting",0.5,5.625,6,6.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito5.9375","50% chance of Burrito10","","Burrito10 Discounting",0.5,5.9375,7,6.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito5.9375","50% chance of Burrito10","","Burrito10 Discounting",0.5,5.9375,8,6.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito5","20% chance of Burrito10","certain","Burrito10 Discounting",0.2,5,0,1.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito2.5","20% chance of Burrito10","certain","Burrito10 Discounting",0.2,2.5,1,1.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito2.5","20% chance of Burrito10","certain","Burrito10 Discounting",0.2,2.5,2,1.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito1.25","20% chance of Burrito10","probabilistic","Burrito10 Discounting",0.2,1.25,3,1.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito1.25","20% chance of Burrito10","probabilistic","Burrito10 Discounting",0.2,1.25,4,1.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito0.625","20% chance of Burrito10","","Burrito10 Discounting",0.2,0.625,5,1.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito0.625","20% chance of Burrito10","","Burrito10 Discounting",0.2,0.625,6,1.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito0.9375","20% chance of Burrito10","","Burrito10 Discounting",0.2,0.9375,7,1.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito0.9375","20% chance of Burrito10","","Burrito10 Discounting",0.2,0.9375,8,1.40625
+"P9708","discountingTrial","","Which would you prefer?","Burrito5","5% chance of Burrito10","certain","Burrito10 Discounting",0.05,5,0,3.59375
+"P9708","discountingTrial","","Which would you prefer?","Burrito2.5","5% chance of Burrito10","probabilistic","Burrito10 Discounting",0.05,2.5,1,3.59375
+"P9708","discountingTrial","","Which would you prefer?","Burrito2.5","5% chance of Burrito10","probabilistic","Burrito10 Discounting",0.05,2.5,2,3.59375
+"P9708","discountingTrial","","Which would you prefer?","Burrito3.75","5% chance of Burrito10","probabilistic","Burrito10 Discounting",0.05,3.75,3,3.59375
+"P9708","discountingTrial","","Which would you prefer?","Burrito3.75","5% chance of Burrito10","certain","Burrito10 Discounting",0.05,3.75,4,3.59375
+"P9708","discountingTrial","","Which would you prefer?","Burrito4.375","5% chance of Burrito10","","Burrito10 Discounting",0.05,4.375,5,3.59375
+"P9708","discountingTrial","","Which would you prefer?","Burrito4.375","5% chance of Burrito10","","Burrito10 Discounting",0.05,4.375,6,3.59375
+"P9708","discountingTrial","","Which would you prefer?","Burrito4.6875","5% chance of Burrito10","","Burrito10 Discounting",0.05,4.6875,7,3.59375
+"P9708","discountingTrial","","Which would you prefer?","Burrito4.6875","5% chance of Burrito10","","Burrito10 Discounting",0.05,4.6875,8,3.59375
+"P9708","discountingTrial","","Which would you prefer?","$5","100% chance of $10","probabilistic","$10 Discounting",1,5,0,6.40625
+"P9708","discountingTrial","","Which would you prefer?","$7.5","100% chance of $10","certain","$10 Discounting",1,7.5,1,6.40625
+"P9708","discountingTrial","","Which would you prefer?","$7.5","100% chance of $10","probabilistic","$10 Discounting",1,7.5,2,6.40625
+"P9708","discountingTrial","","Which would you prefer?","$6.25","100% chance of $10","probabilistic","$10 Discounting",1,6.25,3,6.40625
+"P9708","discountingTrial","","Which would you prefer?","$6.25","100% chance of $10","probabilistic","$10 Discounting",1,6.25,4,6.40625
+"P9708","discountingTrial","","Which would you prefer?","$6.875","100% chance of $10","","$10 Discounting",1,6.875,5,6.40625
+"P9708","discountingTrial","","Which would you prefer?","$6.875","100% chance of $10","","$10 Discounting",1,6.875,6,6.40625
+"P9708","discountingTrial","","Which would you prefer?","$7.1875","100% chance of $10","","$10 Discounting",1,7.1875,7,6.40625
+"P9708","discountingTrial","","Which would you prefer?","$7.1875","100% chance of $10","","$10 Discounting",1,7.1875,8,6.40625
+"P9708","discountingTrial","","Which would you prefer?","$5","75% chance of $10","probabilistic","$10 Discounting",0.75,5,0,8.90625
+"P9708","discountingTrial","","Which would you prefer?","$7.5","75% chance of $10","probabilistic","$10 Discounting",0.75,7.5,1,8.90625
+"P9708","discountingTrial","","Which would you prefer?","$7.5","75% chance of $10","probabilistic","$10 Discounting",0.75,7.5,2,8.90625
+"P9708","discountingTrial","","Which would you prefer?","$8.75","75% chance of $10","probabilistic","$10 Discounting",0.75,8.75,3,8.90625
+"P9708","discountingTrial","","Which would you prefer?","$8.75","75% chance of $10","probabilistic","$10 Discounting",0.75,8.75,4,8.90625
+"P9708","discountingTrial","","Which would you prefer?","$9.375","75% chance of $10","","$10 Discounting",0.75,9.375,5,8.90625
+"P9708","discountingTrial","","Which would you prefer?","$9.375","75% chance of $10","","$10 Discounting",0.75,9.375,6,8.90625
+"P9708","discountingTrial","","Which would you prefer?","$9.6875","75% chance of $10","","$10 Discounting",0.75,9.6875,7,8.90625
+"P9708","discountingTrial","","Which would you prefer?","$9.6875","75% chance of $10","","$10 Discounting",0.75,9.6875,8,8.90625
+"P9708","discountingTrial","","Which would you prefer?","$5","50% chance of $10","certain","$10 Discounting",0.5,5,0,3.90625
+"P9708","discountingTrial","","Which would you prefer?","$2.5","50% chance of $10","probabilistic","$10 Discounting",0.5,2.5,1,3.90625
+"P9708","discountingTrial","","Which would you prefer?","$2.5","50% chance of $10","certain","$10 Discounting",0.5,2.5,2,3.90625
+"P9708","discountingTrial","","Which would you prefer?","$3.75","50% chance of $10","probabilistic","$10 Discounting",0.5,3.75,3,3.90625
+"P9708","discountingTrial","","Which would you prefer?","$3.75","50% chance of $10","probabilistic","$10 Discounting",0.5,3.75,4,3.90625
+"P9708","discountingTrial","","Which would you prefer?","$3.125","50% chance of $10","","$10 Discounting",0.5,3.125,5,3.90625
+"P9708","discountingTrial","","Which would you prefer?","$3.125","50% chance of $10","","$10 Discounting",0.5,3.125,6,3.90625
+"P9708","discountingTrial","","Which would you prefer?","$3.4375","50% chance of $10","","$10 Discounting",0.5,3.4375,7,3.90625
+"P9708","discountingTrial","","Which would you prefer?","$3.4375","50% chance of $10","","$10 Discounting",0.5,3.4375,8,3.90625
+"P9708","discountingTrial","","Which would you prefer?","$5","20% chance of $10","certain","$10 Discounting",0.2,5,0,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$2.5","20% chance of $10","certain","$10 Discounting",0.2,2.5,1,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$2.5","20% chance of $10","certain","$10 Discounting",0.2,2.5,2,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$1.25","20% chance of $10","certain","$10 Discounting",0.2,1.25,3,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$1.25","20% chance of $10","probabilistic","$10 Discounting",0.2,1.25,4,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$0.625","20% chance of $10","","$10 Discounting",0.2,0.625,5,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$0.625","20% chance of $10","","$10 Discounting",0.2,0.625,6,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$0.3125","20% chance of $10","","$10 Discounting",0.2,0.3125,7,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$0.3125","20% chance of $10","","$10 Discounting",0.2,0.3125,8,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$5","5% chance of $10","certain","$10 Discounting",0.05,5,0,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$2.5","5% chance of $10","certain","$10 Discounting",0.05,2.5,1,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$2.5","5% chance of $10","probabilistic","$10 Discounting",0.05,2.5,2,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$1.25","5% chance of $10","certain","$10 Discounting",0.05,1.25,3,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$1.25","5% chance of $10","probabilistic","$10 Discounting",0.05,1.25,4,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$1.875","5% chance of $10","","$10 Discounting",0.05,1.875,5,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$1.875","5% chance of $10","","$10 Discounting",0.05,1.875,6,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$1.5625","5% chance of $10","","$10 Discounting",0.05,1.5625,7,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$1.5625","5% chance of $10","","$10 Discounting",0.05,1.5625,8,1.40625
+"P9708","discountingTrial","","Which would you prefer?","$50","100% chance of $100","certain","$100 Discounting",1,50,0,10.9375
+"P9708","discountingTrial","","Which would you prefer?","$25","100% chance of $100","certain","$100 Discounting",1,25,1,10.9375
+"P9708","discountingTrial","","Which would you prefer?","$25","100% chance of $100","probabilistic","$100 Discounting",1,25,2,10.9375
+"P9708","discountingTrial","","Which would you prefer?","$12.5","100% chance of $100","probabilistic","$100 Discounting",1,12.5,3,10.9375
+"P9708","discountingTrial","","Which would you prefer?","$12.5","100% chance of $100","certain","$100 Discounting",1,12.5,4,10.9375
+"P9708","discountingTrial","","Which would you prefer?","$18.75","100% chance of $100","","$100 Discounting",1,18.75,5,10.9375
+"P9708","discountingTrial","","Which would you prefer?","$18.75","100% chance of $100","","$100 Discounting",1,18.75,6,10.9375
+"P9708","discountingTrial","","Which would you prefer?","$21.875","100% chance of $100","","$100 Discounting",1,21.875,7,10.9375
+"P9708","discountingTrial","","Which would you prefer?","$21.875","100% chance of $100","","$100 Discounting",1,21.875,8,10.9375
+"P9708","discountingTrial","","Which would you prefer?","$50","75% chance of $100","certain","$100 Discounting",0.75,50,0,14.0625
+"P9708","discountingTrial","","Which would you prefer?","$25","75% chance of $100","certain","$100 Discounting",0.75,25,1,14.0625
+"P9708","discountingTrial","","Which would you prefer?","$25","75% chance of $100","certain","$100 Discounting",0.75,25,2,14.0625
+"P9708","discountingTrial","","Which would you prefer?","$12.5","75% chance of $100","certain","$100 Discounting",0.75,12.5,3,14.0625
+"P9708","discountingTrial","","Which would you prefer?","$12.5","75% chance of $100","probabilistic","$100 Discounting",0.75,12.5,4,14.0625
+"P9708","discountingTrial","","Which would you prefer?","$6.25","75% chance of $100","","$100 Discounting",0.75,6.25,5,14.0625
+"P9708","discountingTrial","","Which would you prefer?","$6.25","75% chance of $100","","$100 Discounting",0.75,6.25,6,14.0625
+"P9708","discountingTrial","","Which would you prefer?","$3.125","75% chance of $100","","$100 Discounting",0.75,3.125,7,14.0625
+"P9708","discountingTrial","","Which would you prefer?","$3.125","75% chance of $100","","$100 Discounting",0.75,3.125,8,14.0625
+"P9708","discountingTrial","","Which would you prefer?","$50","50% chance of $100","probabilistic","$100 Discounting",0.5,50,0,89.0625
+"P9708","discountingTrial","","Which would you prefer?","$75","50% chance of $100","probabilistic","$100 Discounting",0.5,75,1,89.0625
+"P9708","discountingTrial","","Which would you prefer?","$75","50% chance of $100","probabilistic","$100 Discounting",0.5,75,2,89.0625
+"P9708","discountingTrial","","Which would you prefer?","$87.5","50% chance of $100","probabilistic","$100 Discounting",0.5,87.5,3,89.0625
+"P9708","discountingTrial","","Which would you prefer?","$87.5","50% chance of $100","probabilistic","$100 Discounting",0.5,87.5,4,89.0625
+"P9708","discountingTrial","","Which would you prefer?","$93.75","50% chance of $100","","$100 Discounting",0.5,93.75,5,89.0625
+"P9708","discountingTrial","","Which would you prefer?","$93.75","50% chance of $100","","$100 Discounting",0.5,93.75,6,89.0625
+"P9708","discountingTrial","","Which would you prefer?","$96.875","50% chance of $100","","$100 Discounting",0.5,96.875,7,89.0625
+"P9708","discountingTrial","","Which would you prefer?","$96.875","50% chance of $100","","$100 Discounting",0.5,96.875,8,89.0625
+"P9708","discountingTrial","","Which would you prefer?","$50","20% chance of $100","probabilistic","$100 Discounting",0.2,50,0,64.0625
+"P9708","discountingTrial","","Which would you prefer?","$75","20% chance of $100","certain","$100 Discounting",0.2,75,1,64.0625
+"P9708","discountingTrial","","Which would you prefer?","$75","20% chance of $100","probabilistic","$100 Discounting",0.2,75,2,64.0625
+"P9708","discountingTrial","","Which would you prefer?","$62.5","20% chance of $100","probabilistic","$100 Discounting",0.2,62.5,3,64.0625
+"P9708","discountingTrial","","Which would you prefer?","$62.5","20% chance of $100","probabilistic","$100 Discounting",0.2,62.5,4,64.0625
+"P9708","discountingTrial","","Which would you prefer?","$68.75","20% chance of $100","","$100 Discounting",0.2,68.75,5,64.0625
+"P9708","discountingTrial","","Which would you prefer?","$68.75","20% chance of $100","","$100 Discounting",0.2,68.75,6,64.0625
+"P9708","discountingTrial","","Which would you prefer?","$71.875","20% chance of $100","","$100 Discounting",0.2,71.875,7,64.0625
+"P9708","discountingTrial","","Which would you prefer?","$71.875","20% chance of $100","","$100 Discounting",0.2,71.875,8,64.0625
+"P9708","discountingTrial","","Which would you prefer?","$50","5% chance of $100","certain","$100 Discounting",0.05,50,0,39.0625
+"P9708","discountingTrial","","Which would you prefer?","$25","5% chance of $100","probabilistic","$100 Discounting",0.05,25,1,39.0625
+"P9708","discountingTrial","","Which would you prefer?","$25","5% chance of $100","probabilistic","$100 Discounting",0.05,25,2,39.0625
+"P9708","discountingTrial","","Which would you prefer?","$37.5","5% chance of $100","probabilistic","$100 Discounting",0.05,37.5,3,39.0625
+"P9708","discountingTrial","","Which would you prefer?","$37.5","5% chance of $100","probabilistic","$100 Discounting",0.05,37.5,4,39.0625
+"P9708","discountingTrial","","Which would you prefer?","$43.75","5% chance of $100","","$100 Discounting",0.05,43.75,5,39.0625
+"P9708","discountingTrial","","Which would you prefer?","$43.75","5% chance of $100","","$100 Discounting",0.05,43.75,6,39.0625
+"P9708","discountingTrial","","Which would you prefer?","$46.875","5% chance of $100","","$100 Discounting",0.05,46.875,7,39.0625
+"P9708","discountingTrial","","Which would you prefer?","$46.875","5% chance of $100","","$100 Discounting",0.05,46.875,8,39.0625

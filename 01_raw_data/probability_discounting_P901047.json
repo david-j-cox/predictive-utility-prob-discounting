@@ -1,0 +1,829 @@
+{
+  "participantId": "P901047",
+  "startTime": "2025-05-03T13:46:07.663Z",
+  "endTime": "2025-05-03T13:53:41.509Z",
+  "consentGiven": true,
+  "taskResults": [
+    {
+      "label": "lobster10 Discounting",
+      "maxValue": 10,
+      "unit": "lobster",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 9.84375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 9.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 lobster"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 2.34375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 1.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 2.1875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 lobster"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 0.46875,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 0.625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 0.3125,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 lobster"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 6.09375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 5.625,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 5.9375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 lobster"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 0.78125,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 0.625,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 lobster"
+            },
+            {
+              "certainAmount": 0.9375,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 lobster"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "$10 Discounting",
+      "maxValue": 10,
+      "unit": "$",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 4.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 3.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 4.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 4.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 6.09375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 5.625,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 5.9375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 0.15625,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 0.625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 0.3125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 4.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 3.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 4.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 4.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 2.34375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.1875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "lobster100 Discounting",
+      "maxValue": 100,
+      "unit": "lobster",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 23.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 18.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 21.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 lobster"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 4.6875,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 3.125,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 lobster"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 98.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 87.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 93.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 96.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 lobster"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 1.5625,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 3.125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 lobster"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 48.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 43.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 lobster"
+            },
+            {
+              "certainAmount": 46.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 lobster"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "$100 Discounting",
+      "maxValue": 100,
+      "unit": "$",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 98.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 87.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 93.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 96.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 48.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 43.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 46.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 54.6875,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 62.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 56.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 53.125,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 51.5625,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 62.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 56.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 53.125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 4.6875,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 3.125,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fixedChoiceQuestions": [
+    {
+      "id": 24,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66 worth of lobster",
+      "optionB": "100% Chance of $20 worth of lobster",
+      "choice": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33 worth of lobster",
+      "optionB": "100% Chance of $10 worth of lobster",
+      "choice": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "B"
+    },
+    {
+      "id": 17,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33 worth of lobster",
+      "optionB": "100% Chance of $10 worth of lobster",
+      "choice": "A"
+    },
+    {
+      "id": 1,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66 worth of lobster",
+      "optionB": "100% Chance of $20 worth of lobster",
+      "choice": "A"
+    },
+    {
+      "id": 21,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66 worth of lobster",
+      "optionB": "100% Chance of $56 worth of lobster",
+      "choice": "B"
+    },
+    {
+      "id": 14,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33 worth of lobster",
+      "optionB": "100% Chance of $28 worth of lobster",
+      "choice": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33 worth of lobster",
+      "optionB": "100% Chance of $28 worth of lobster",
+      "choice": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33 worth of lobster",
+      "optionB": "100% Chance of $28 worth of lobster",
+      "choice": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 20,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66 worth of lobster",
+      "optionB": "100% Chance of $56 worth of lobster",
+      "choice": "B"
+    },
+    {
+      "id": 8,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "A"
+    },
+    {
+      "id": 18,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33 worth of lobster",
+      "optionB": "100% Chance of $10 worth of lobster",
+      "choice": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66 worth of lobster",
+      "optionB": "100% Chance of $56 worth of lobster",
+      "choice": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "A"
+    },
+    {
+      "id": 23,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66 worth of lobster",
+      "optionB": "100% Chance of $20 worth of lobster",
+      "choice": "A"
+    }
+  ],
+  "prolificId": "657b111e0f834cfa496bd068",
+  "favoriteFood": "lobster",
+  "uploadStatus": "failed"
+}

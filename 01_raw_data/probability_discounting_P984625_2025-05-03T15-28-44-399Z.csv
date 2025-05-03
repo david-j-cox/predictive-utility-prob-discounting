@@ -1,0 +1,125 @@
+participantId,eventType,questionId,question,optionA,optionB,choice,taskLabel,probability,certainAmount,trialIndex,indifferencePoint
+"P984625","fixedChoice",23,"Which would you prefer?","60% Chance of $66 worth of lasagna","100% Chance of $20 worth of lasagna","B","lasagna","0.6","20","NA","NA"
+"P984625","fixedChoice",13,"Which would you prefer?","85% Chance of $33 worth of lasagna","100% Chance of $28 worth of lasagna","B","lasagna","0.85","28","NA","NA"
+"P984625","fixedChoice",3,"Which would you prefer?","30% Chance of $33","100% Chance of $28","B","money","0.3","28","NA","NA"
+"P984625","fixedChoice",8,"Which would you prefer?","60% Chance of $66","100% Chance of $56","B","money","0.6","56","NA","NA"
+"P984625","fixedChoice",18,"Which would you prefer?","30% Chance of $33 worth of lasagna","100% Chance of $10 worth of lasagna","B","lasagna","0.3","10","NA","NA"
+"P984625","fixedChoice",24,"Which would you prefer?","30% Chance of $66 worth of lasagna","100% Chance of $20 worth of lasagna","B","lasagna","0.3","20","NA","NA"
+"P984625","fixedChoice",10,"Which would you prefer?","85% Chance of $66","100% Chance of $20","B","money","0.85","20","NA","NA"
+"P984625","fixedChoice",21,"Which would you prefer?","30% Chance of $66 worth of lasagna","100% Chance of $56 worth of lasagna","B","lasagna","0.3","56","NA","NA"
+"P984625","fixedChoice",2,"Which would you prefer?","60% Chance of $33","100% Chance of $28","B","money","0.6","28","NA","NA"
+"P984625","fixedChoice",17,"Which would you prefer?","60% Chance of $33 worth of lasagna","100% Chance of $10 worth of lasagna","B","lasagna","0.6","10","NA","NA"
+"P984625","fixedChoice",9,"Which would you prefer?","30% Chance of $66","100% Chance of $56","B","money","0.3","56","NA","NA"
+"P984625","fixedChoice",14,"Which would you prefer?","60% Chance of $33 worth of lasagna","100% Chance of $28 worth of lasagna","B","lasagna","0.6","28","NA","NA"
+"P984625","fixedChoice",19,"Which would you prefer?","85% Chance of $66 worth of lasagna","100% Chance of $56 worth of lasagna","B","lasagna","0.85","56","NA","NA"
+"P984625","fixedChoice",1,"Which would you prefer?","85% Chance of $33","100% Chance of $28","A","money","0.85","28","NA","NA"
+"P984625","fixedChoice",4,"Which would you prefer?","85% Chance of $33","100% Chance of $10","A","money","0.85","10","NA","NA"
+"P984625","fixedChoice",6,"Which would you prefer?","30% Chance of $33","100% Chance of $10","B","money","0.3","10","NA","NA"
+"P984625","fixedChoice",7,"Which would you prefer?","85% Chance of $66","100% Chance of $56","B","money","0.85","56","NA","NA"
+"P984625","fixedChoice",20,"Which would you prefer?","60% Chance of $66 worth of lasagna","100% Chance of $56 worth of lasagna","B","lasagna","0.6","56","NA","NA"
+"P984625","fixedChoice",22,"Which would you prefer?","85% Chance of $66 worth of lasagna","100% Chance of $20 worth of lasagna","B","lasagna","0.85","20","NA","NA"
+"P984625","fixedChoice",15,"Which would you prefer?","30% Chance of $33 worth of lasagna","100% Chance of $28 worth of lasagna","B","lasagna","0.3","28","NA","NA"
+"P984625","fixedChoice",16,"Which would you prefer?","85% Chance of $33 worth of lasagna","100% Chance of $10 worth of lasagna","B","lasagna","0.85","10","NA","NA"
+"P984625","fixedChoice",5,"Which would you prefer?","60% Chance of $33","100% Chance of $10","A","money","0.6","10","NA","NA"
+"P984625","fixedChoice",12,"Which would you prefer?","30% Chance of $66","100% Chance of $20","B","money","0.3","20","NA","NA"
+"P984625","fixedChoice",11,"Which would you prefer?","60% Chance of $66","100% Chance of $20","B","money","0.6","20","NA","NA"
+"P984625","discountingTrial","","Which would you prefer?","lasagna50","100% chance of lasagna10","certain","lasagna10 Discounting",1,50,0,3.28125
+"P984625","discountingTrial","","Which would you prefer?","lasagna2.5","100% chance of lasagna10","probabilistic","lasagna10 Discounting",1,2.5,1,3.28125
+"P984625","discountingTrial","","Which would you prefer?","lasagna3.75","100% chance of lasagna10","certain","lasagna10 Discounting",1,3.75,2,3.28125
+"P984625","discountingTrial","","Which would you prefer?","lasagna3.125","100% chance of lasagna10","probabilistic","lasagna10 Discounting",1,3.125,3,3.28125
+"P984625","discountingTrial","","Which would you prefer?","lasagna3.4375","100% chance of lasagna10","certain","lasagna10 Discounting",1,3.4375,4,3.28125
+"P984625","discountingTrial","","Which would you prefer?","lasagna5","75% chance of lasagna10","probabilistic","lasagna10 Discounting",0.75,5,0,5.15625
+"P984625","discountingTrial","","Which would you prefer?","lasagna7.5","75% chance of lasagna10","certain","lasagna10 Discounting",0.75,7.5,1,5.15625
+"P984625","discountingTrial","","Which would you prefer?","lasagna6.25","75% chance of lasagna10","certain","lasagna10 Discounting",0.75,6.25,2,5.15625
+"P984625","discountingTrial","","Which would you prefer?","lasagna5.625","75% chance of lasagna10","certain","lasagna10 Discounting",0.75,5.625,3,5.15625
+"P984625","discountingTrial","","Which would you prefer?","lasagna5.3125","75% chance of lasagna10","certain","lasagna10 Discounting",0.75,5.3125,4,5.15625
+"P984625","discountingTrial","","Which would you prefer?","lasagna5","50% chance of lasagna10","certain","lasagna10 Discounting",0.5,5,0,1.40625
+"P984625","discountingTrial","","Which would you prefer?","lasagna2.5","50% chance of lasagna10","certain","lasagna10 Discounting",0.5,2.5,1,1.40625
+"P984625","discountingTrial","","Which would you prefer?","lasagna1.25","50% chance of lasagna10","probabilistic","lasagna10 Discounting",0.5,1.25,2,1.40625
+"P984625","discountingTrial","","Which would you prefer?","lasagna1.875","50% chance of lasagna10","certain","lasagna10 Discounting",0.5,1.875,3,1.40625
+"P984625","discountingTrial","","Which would you prefer?","lasagna1.5625","50% chance of lasagna10","certain","lasagna10 Discounting",0.5,1.5625,4,1.40625
+"P984625","discountingTrial","","Which would you prefer?","lasagna5","20% chance of lasagna10","certain","lasagna10 Discounting",0.2,5,0,1.71875
+"P984625","discountingTrial","","Which would you prefer?","lasagna2.5","20% chance of lasagna10","certain","lasagna10 Discounting",0.2,2.5,1,1.71875
+"P984625","discountingTrial","","Which would you prefer?","lasagna1.25","20% chance of lasagna10","probabilistic","lasagna10 Discounting",0.2,1.25,2,1.71875
+"P984625","discountingTrial","","Which would you prefer?","lasagna1.875","20% chance of lasagna10","certain","lasagna10 Discounting",0.2,1.875,3,1.71875
+"P984625","discountingTrial","","Which would you prefer?","lasagna1.5625","20% chance of lasagna10","probabilistic","lasagna10 Discounting",0.2,1.5625,4,1.71875
+"P984625","discountingTrial","","Which would you prefer?","lasagna5","5% chance of lasagna10","probabilistic","lasagna10 Discounting",0.05,5,0,9.84375
+"P984625","discountingTrial","","Which would you prefer?","lasagna7.5","5% chance of lasagna10","probabilistic","lasagna10 Discounting",0.05,7.5,1,9.84375
+"P984625","discountingTrial","","Which would you prefer?","lasagna8.75","5% chance of lasagna10","probabilistic","lasagna10 Discounting",0.05,8.75,2,9.84375
+"P984625","discountingTrial","","Which would you prefer?","lasagna9.375","5% chance of lasagna10","probabilistic","lasagna10 Discounting",0.05,9.375,3,9.84375
+"P984625","discountingTrial","","Which would you prefer?","lasagna9.6875","5% chance of lasagna10","probabilistic","lasagna10 Discounting",0.05,9.6875,4,9.84375
+"P984625","discountingTrial","","Which would you prefer?","lasagna50","100% chance of lasagna100","certain","lasagna100 Discounting",1,50,0,39.0625
+"P984625","discountingTrial","","Which would you prefer?","lasagna25","100% chance of lasagna100","probabilistic","lasagna100 Discounting",1,25,1,39.0625
+"P984625","discountingTrial","","Which would you prefer?","lasagna37.5","100% chance of lasagna100","probabilistic","lasagna100 Discounting",1,37.5,2,39.0625
+"P984625","discountingTrial","","Which would you prefer?","lasagna43.75","100% chance of lasagna100","certain","lasagna100 Discounting",1,43.75,3,39.0625
+"P984625","discountingTrial","","Which would you prefer?","lasagna40.625","100% chance of lasagna100","certain","lasagna100 Discounting",1,40.625,4,39.0625
+"P984625","discountingTrial","","Which would you prefer?","lasagna50","75% chance of lasagna100","certain","lasagna100 Discounting",0.75,50,0,20.3125
+"P984625","discountingTrial","","Which would you prefer?","lasagna25","75% chance of lasagna100","certain","lasagna100 Discounting",0.75,25,1,20.3125
+"P984625","discountingTrial","","Which would you prefer?","lasagna12.5","75% chance of lasagna100","probabilistic","lasagna100 Discounting",0.75,12.5,2,20.3125
+"P984625","discountingTrial","","Which would you prefer?","lasagna18.75","75% chance of lasagna100","probabilistic","lasagna100 Discounting",0.75,18.75,3,20.3125
+"P984625","discountingTrial","","Which would you prefer?","lasagna21.875","75% chance of lasagna100","certain","lasagna100 Discounting",0.75,21.875,4,20.3125
+"P984625","discountingTrial","","Which would you prefer?","lasagna50","50% chance of lasagna100","certain","lasagna100 Discounting",0.5,50,0,26.5625
+"P984625","discountingTrial","","Which would you prefer?","lasagna25","50% chance of lasagna100","probabilistic","lasagna100 Discounting",0.5,25,1,26.5625
+"P984625","discountingTrial","","Which would you prefer?","lasagna37.5","50% chance of lasagna100","certain","lasagna100 Discounting",0.5,37.5,2,26.5625
+"P984625","discountingTrial","","Which would you prefer?","lasagna31.25","50% chance of lasagna100","certain","lasagna100 Discounting",0.5,31.25,3,26.5625
+"P984625","discountingTrial","","Which would you prefer?","lasagna28.125","50% chance of lasagna100","certain","lasagna100 Discounting",0.5,28.125,4,26.5625
+"P984625","discountingTrial","","Which would you prefer?","lasagna50","20% chance of lasagna100","probabilistic","lasagna100 Discounting",0.2,50,0,98.4375
+"P984625","discountingTrial","","Which would you prefer?","lasagna75","20% chance of lasagna100","probabilistic","lasagna100 Discounting",0.2,75,1,98.4375
+"P984625","discountingTrial","","Which would you prefer?","lasagna87.5","20% chance of lasagna100","probabilistic","lasagna100 Discounting",0.2,87.5,2,98.4375
+"P984625","discountingTrial","","Which would you prefer?","lasagna93.75","20% chance of lasagna100","probabilistic","lasagna100 Discounting",0.2,93.75,3,98.4375
+"P984625","discountingTrial","","Which would you prefer?","lasagna96.875","20% chance of lasagna100","probabilistic","lasagna100 Discounting",0.2,96.875,4,98.4375
+"P984625","discountingTrial","","Which would you prefer?","lasagna50","5% chance of lasagna100","certain","lasagna100 Discounting",0.05,50,0,7.8125
+"P984625","discountingTrial","","Which would you prefer?","lasagna25","5% chance of lasagna100","certain","lasagna100 Discounting",0.05,25,1,7.8125
+"P984625","discountingTrial","","Which would you prefer?","lasagna12.5","5% chance of lasagna100","certain","lasagna100 Discounting",0.05,12.5,2,7.8125
+"P984625","discountingTrial","","Which would you prefer?","lasagna6.25","5% chance of lasagna100","probabilistic","lasagna100 Discounting",0.05,6.25,3,7.8125
+"P984625","discountingTrial","","Which would you prefer?","lasagna9.375","5% chance of lasagna100","certain","lasagna100 Discounting",0.05,9.375,4,7.8125
+"P984625","discountingTrial","","Which would you prefer?","$50","100% chance of $100","certain","$100 Discounting",1,50,0,14.0625
+"P984625","discountingTrial","","Which would you prefer?","$25","100% chance of $100","certain","$100 Discounting",1,25,1,14.0625
+"P984625","discountingTrial","","Which would you prefer?","$12.5","100% chance of $100","probabilistic","$100 Discounting",1,12.5,2,14.0625
+"P984625","discountingTrial","","Which would you prefer?","$18.75","100% chance of $100","certain","$100 Discounting",1,18.75,3,14.0625
+"P984625","discountingTrial","","Which would you prefer?","$15.625","100% chance of $100","certain","$100 Discounting",1,15.625,4,14.0625
+"P984625","discountingTrial","","Which would you prefer?","$50","75% chance of $100","certain","$100 Discounting",0.75,50,0,39.0625
+"P984625","discountingTrial","","Which would you prefer?","$25","75% chance of $100","probabilistic","$100 Discounting",0.75,25,1,39.0625
+"P984625","discountingTrial","","Which would you prefer?","$37.5","75% chance of $100","probabilistic","$100 Discounting",0.75,37.5,2,39.0625
+"P984625","discountingTrial","","Which would you prefer?","$43.75","75% chance of $100","certain","$100 Discounting",0.75,43.75,3,39.0625
+"P984625","discountingTrial","","Which would you prefer?","$40.625","75% chance of $100","certain","$100 Discounting",0.75,40.625,4,39.0625
+"P984625","discountingTrial","","Which would you prefer?","$50","50% chance of $100","certain","$100 Discounting",0.5,50,0,1.5625
+"P984625","discountingTrial","","Which would you prefer?","$25","50% chance of $100","certain","$100 Discounting",0.5,25,1,1.5625
+"P984625","discountingTrial","","Which would you prefer?","$12.5","50% chance of $100","certain","$100 Discounting",0.5,12.5,2,1.5625
+"P984625","discountingTrial","","Which would you prefer?","$6.25","50% chance of $100","certain","$100 Discounting",0.5,6.25,3,1.5625
+"P984625","discountingTrial","","Which would you prefer?","$3.125","50% chance of $100","certain","$100 Discounting",0.5,3.125,4,1.5625
+"P984625","discountingTrial","","Which would you prefer?","$50","20% chance of $100","certain","$100 Discounting",0.2,50,0,45.3125
+"P984625","discountingTrial","","Which would you prefer?","$25","20% chance of $100","probabilistic","$100 Discounting",0.2,25,1,45.3125
+"P984625","discountingTrial","","Which would you prefer?","$37.5","20% chance of $100","probabilistic","$100 Discounting",0.2,37.5,2,45.3125
+"P984625","discountingTrial","","Which would you prefer?","$43.75","20% chance of $100","probabilistic","$100 Discounting",0.2,43.75,3,45.3125
+"P984625","discountingTrial","","Which would you prefer?","$46.875","20% chance of $100","certain","$100 Discounting",0.2,46.875,4,45.3125
+"P984625","discountingTrial","","Which would you prefer?","$50","5% chance of $100","probabilistic","$100 Discounting",0.05,50,0,98.4375
+"P984625","discountingTrial","","Which would you prefer?","$75","5% chance of $100","probabilistic","$100 Discounting",0.05,75,1,98.4375
+"P984625","discountingTrial","","Which would you prefer?","$87.5","5% chance of $100","probabilistic","$100 Discounting",0.05,87.5,2,98.4375
+"P984625","discountingTrial","","Which would you prefer?","$93.75","5% chance of $100","probabilistic","$100 Discounting",0.05,93.75,3,98.4375
+"P984625","discountingTrial","","Which would you prefer?","$96.875","5% chance of $100","probabilistic","$100 Discounting",0.05,96.875,4,98.4375
+"P984625","discountingTrial","","Which would you prefer?","$5","100% chance of $10","certain","$10 Discounting",1,5,0,0.78125
+"P984625","discountingTrial","","Which would you prefer?","$2.5","100% chance of $10","certain","$10 Discounting",1,2.5,1,0.78125
+"P984625","discountingTrial","","Which would you prefer?","$1.25","100% chance of $10","certain","$10 Discounting",1,1.25,2,0.78125
+"P984625","discountingTrial","","Which would you prefer?","$0.625","100% chance of $10","probabilistic","$10 Discounting",1,0.625,3,0.78125
+"P984625","discountingTrial","","Which would you prefer?","$0.9375","100% chance of $10","certain","$10 Discounting",1,0.9375,4,0.78125
+"P984625","discountingTrial","","Which would you prefer?","$5","75% chance of $10","certain","$10 Discounting",0.75,5,0,3.28125
+"P984625","discountingTrial","","Which would you prefer?","$2.5","75% chance of $10","probabilistic","$10 Discounting",0.75,2.5,1,3.28125
+"P984625","discountingTrial","","Which would you prefer?","$3.75","75% chance of $10","certain","$10 Discounting",0.75,3.75,2,3.28125
+"P984625","discountingTrial","","Which would you prefer?","$3.125","75% chance of $10","probabilistic","$10 Discounting",0.75,3.125,3,3.28125
+"P984625","discountingTrial","","Which would you prefer?","$3.4375","75% chance of $10","certain","$10 Discounting",0.75,3.4375,4,3.28125
+"P984625","discountingTrial","","Which would you prefer?","$5","50% chance of $10","probabilistic","$10 Discounting",0.5,5,0,9.84375
+"P984625","discountingTrial","","Which would you prefer?","$7.5","50% chance of $10","probabilistic","$10 Discounting",0.5,7.5,1,9.84375
+"P984625","discountingTrial","","Which would you prefer?","$8.75","50% chance of $10","probabilistic","$10 Discounting",0.5,8.75,2,9.84375
+"P984625","discountingTrial","","Which would you prefer?","$9.375","50% chance of $10","probabilistic","$10 Discounting",0.5,9.375,3,9.84375
+"P984625","discountingTrial","","Which would you prefer?","$9.6875","50% chance of $10","probabilistic","$10 Discounting",0.5,9.6875,4,9.84375
+"P984625","discountingTrial","","Which would you prefer?","$5","20% chance of $10","certain","$10 Discounting",0.2,5,0,1.40625
+"P984625","discountingTrial","","Which would you prefer?","$2.5","20% chance of $10","certain","$10 Discounting",0.2,2.5,1,1.40625
+"P984625","discountingTrial","","Which would you prefer?","$1.25","20% chance of $10","probabilistic","$10 Discounting",0.2,1.25,2,1.40625
+"P984625","discountingTrial","","Which would you prefer?","$1.875","20% chance of $10","certain","$10 Discounting",0.2,1.875,3,1.40625
+"P984625","discountingTrial","","Which would you prefer?","$1.5625","20% chance of $10","certain","$10 Discounting",0.2,1.5625,4,1.40625
+"P984625","discountingTrial","","Which would you prefer?","$5","5% chance of $10","certain","$10 Discounting",0.05,5,0,0.15625
+"P984625","discountingTrial","","Which would you prefer?","$2.5","5% chance of $10","certain","$10 Discounting",0.05,2.5,1,0.15625
+"P984625","discountingTrial","","Which would you prefer?","$1.25","5% chance of $10","certain","$10 Discounting",0.05,1.25,2,0.15625
+"P984625","discountingTrial","","Which would you prefer?","$0.625","5% chance of $10","certain","$10 Discounting",0.05,0.625,3,0.15625
+"P984625","discountingTrial","","Which would you prefer?","$0.3125","5% chance of $10","certain","$10 Discounting",0.05,0.3125,4,0.15625

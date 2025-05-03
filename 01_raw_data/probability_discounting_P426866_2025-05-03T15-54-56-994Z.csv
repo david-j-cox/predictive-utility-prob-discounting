@@ -1,0 +1,125 @@
+participantId,prolificId,eventType,questionId,question,optionA,optionB,choice,taskLabel,probability,certainAmount,trialIndex,indifferencePoint
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",12,"Which would you prefer?","30% Chance of $66","100% Chance of $20","B","money","0.3","20","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",7,"Which would you prefer?","85% Chance of $66","100% Chance of $56","A","money","0.85","56","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",6,"Which would you prefer?","30% Chance of $33","100% Chance of $10","B","money","0.3","10","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",17,"Which would you prefer?","60% Chance of $33 worth of steak","100% Chance of $10 worth of steak","A","steak","0.6","10","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",5,"Which would you prefer?","60% Chance of $33","100% Chance of $10","B","money","0.6","10","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",4,"Which would you prefer?","85% Chance of $33","100% Chance of $10","B","money","0.85","10","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",9,"Which would you prefer?","30% Chance of $66","100% Chance of $56","B","money","0.3","56","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",14,"Which would you prefer?","60% Chance of $33 worth of steak","100% Chance of $28 worth of steak","B","steak","0.6","28","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",16,"Which would you prefer?","85% Chance of $33 worth of steak","100% Chance of $10 worth of steak","A","steak","0.85","10","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",15,"Which would you prefer?","30% Chance of $33 worth of steak","100% Chance of $28 worth of steak","B","steak","0.3","28","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",23,"Which would you prefer?","60% Chance of $66 worth of steak","100% Chance of $20 worth of steak","B","steak","0.6","20","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",3,"Which would you prefer?","30% Chance of $33","100% Chance of $28","B","money","0.3","28","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",8,"Which would you prefer?","60% Chance of $66","100% Chance of $56","B","money","0.6","56","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",11,"Which would you prefer?","60% Chance of $66","100% Chance of $20","B","money","0.6","20","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",2,"Which would you prefer?","60% Chance of $33","100% Chance of $28","B","money","0.6","28","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",24,"Which would you prefer?","30% Chance of $66 worth of steak","100% Chance of $20 worth of steak","B","steak","0.3","20","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",21,"Which would you prefer?","30% Chance of $66 worth of steak","100% Chance of $56 worth of steak","B","steak","0.3","56","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",1,"Which would you prefer?","85% Chance of $33","100% Chance of $28","B","money","0.85","28","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",13,"Which would you prefer?","85% Chance of $33 worth of steak","100% Chance of $28 worth of steak","B","steak","0.85","28","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",10,"Which would you prefer?","85% Chance of $66","100% Chance of $20","A","money","0.85","20","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",18,"Which would you prefer?","30% Chance of $33 worth of steak","100% Chance of $10 worth of steak","B","steak","0.3","10","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",19,"Which would you prefer?","85% Chance of $66 worth of steak","100% Chance of $56 worth of steak","B","steak","0.85","56","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",22,"Which would you prefer?","85% Chance of $66 worth of steak","100% Chance of $20 worth of steak","B","steak","0.85","20","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","fixedChoice",20,"Which would you prefer?","60% Chance of $66 worth of steak","100% Chance of $56 worth of steak","B","steak","0.6","56","NA","NA"
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$5","100% chance of $10","certain","$10 Discounting",1,5,0,0.15625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$2.5","100% chance of $10","certain","$10 Discounting",1,2.5,1,0.15625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$1.25","100% chance of $10","certain","$10 Discounting",1,1.25,2,0.15625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$0.625","100% chance of $10","certain","$10 Discounting",1,0.625,3,0.15625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$0.3125","100% chance of $10","certain","$10 Discounting",1,0.3125,4,0.15625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$5","75% chance of $10","certain","$10 Discounting",0.75,5,0,2.03125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$2.5","75% chance of $10","certain","$10 Discounting",0.75,2.5,1,2.03125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$1.25","75% chance of $10","probabilistic","$10 Discounting",0.75,1.25,2,2.03125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$1.875","75% chance of $10","probabilistic","$10 Discounting",0.75,1.875,3,2.03125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$2.1875","75% chance of $10","certain","$10 Discounting",0.75,2.1875,4,2.03125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$5","50% chance of $10","probabilistic","$10 Discounting",0.5,5,0,9.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$7.5","50% chance of $10","probabilistic","$10 Discounting",0.5,7.5,1,9.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$8.75","50% chance of $10","probabilistic","$10 Discounting",0.5,8.75,2,9.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$9.375","50% chance of $10","probabilistic","$10 Discounting",0.5,9.375,3,9.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$9.6875","50% chance of $10","probabilistic","$10 Discounting",0.5,9.6875,4,9.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$5","20% chance of $10","certain","$10 Discounting",0.2,5,0,0.78125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$2.5","20% chance of $10","certain","$10 Discounting",0.2,2.5,1,0.78125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$1.25","20% chance of $10","certain","$10 Discounting",0.2,1.25,2,0.78125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$0.625","20% chance of $10","probabilistic","$10 Discounting",0.2,0.625,3,0.78125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$0.9375","20% chance of $10","certain","$10 Discounting",0.2,0.9375,4,0.78125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$5","5% chance of $10","certain","$10 Discounting",0.05,5,0,1.40625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$2.5","5% chance of $10","certain","$10 Discounting",0.05,2.5,1,1.40625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$1.25","5% chance of $10","probabilistic","$10 Discounting",0.05,1.25,2,1.40625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$1.875","5% chance of $10","certain","$10 Discounting",0.05,1.875,3,1.40625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$1.5625","5% chance of $10","certain","$10 Discounting",0.05,1.5625,4,1.40625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$50","100% chance of $100","certain","$100 Discounting",1,50,0,26.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$25","100% chance of $100","probabilistic","$100 Discounting",1,25,1,26.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$37.5","100% chance of $100","certain","$100 Discounting",1,37.5,2,26.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$31.25","100% chance of $100","certain","$100 Discounting",1,31.25,3,26.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$28.125","100% chance of $100","certain","$100 Discounting",1,28.125,4,26.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$50","75% chance of $100","probabilistic","$100 Discounting",0.75,50,0,98.4375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$75","75% chance of $100","probabilistic","$100 Discounting",0.75,75,1,98.4375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$87.5","75% chance of $100","probabilistic","$100 Discounting",0.75,87.5,2,98.4375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$93.75","75% chance of $100","probabilistic","$100 Discounting",0.75,93.75,3,98.4375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$96.875","75% chance of $100","probabilistic","$100 Discounting",0.75,96.875,4,98.4375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$50","50% chance of $100","certain","$100 Discounting",0.5,50,0,7.8125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$25","50% chance of $100","certain","$100 Discounting",0.5,25,1,7.8125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$12.5","50% chance of $100","certain","$100 Discounting",0.5,12.5,2,7.8125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$6.25","50% chance of $100","probabilistic","$100 Discounting",0.5,6.25,3,7.8125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$9.375","50% chance of $100","certain","$100 Discounting",0.5,9.375,4,7.8125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$50","20% chance of $100","probabilistic","$100 Discounting",0.2,50,0,51.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$75","20% chance of $100","certain","$100 Discounting",0.2,75,1,51.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$62.5","20% chance of $100","certain","$100 Discounting",0.2,62.5,2,51.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$56.25","20% chance of $100","certain","$100 Discounting",0.2,56.25,3,51.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$53.125","20% chance of $100","certain","$100 Discounting",0.2,53.125,4,51.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$50","5% chance of $100","certain","$100 Discounting",0.05,50,0,1.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$25","5% chance of $100","certain","$100 Discounting",0.05,25,1,1.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$12.5","5% chance of $100","certain","$100 Discounting",0.05,12.5,2,1.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$6.25","5% chance of $100","certain","$100 Discounting",0.05,6.25,3,1.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","$3.125","5% chance of $100","certain","$100 Discounting",0.05,3.125,4,1.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak5","100% chance of steak10","certain","steak10 Discounting",1,5,0,4.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak2.5","100% chance of steak10","probabilistic","steak10 Discounting",1,2.5,1,4.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak3.75","100% chance of steak10","probabilistic","steak10 Discounting",1,3.75,2,4.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak4.375","100% chance of steak10","probabilistic","steak10 Discounting",1,4.375,3,4.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak4.6875","100% chance of steak10","probabilistic","steak10 Discounting",1,4.6875,4,4.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak5","75% chance of steak10","certain","steak10 Discounting",0.75,5,0,4.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak2.5","75% chance of steak10","probabilistic","steak10 Discounting",0.75,2.5,1,4.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak3.75","75% chance of steak10","probabilistic","steak10 Discounting",0.75,3.75,2,4.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak4.375","75% chance of steak10","probabilistic","steak10 Discounting",0.75,4.375,3,4.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak4.6875","75% chance of steak10","probabilistic","steak10 Discounting",0.75,4.6875,4,4.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak5","50% chance of steak10","probabilistic","steak10 Discounting",0.5,5,0,7.34375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak7.5","50% chance of steak10","certain","steak10 Discounting",0.5,7.5,1,7.34375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak6.25","50% chance of steak10","probabilistic","steak10 Discounting",0.5,6.25,2,7.34375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak6.875","50% chance of steak10","probabilistic","steak10 Discounting",0.5,6.875,3,7.34375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak7.1875","50% chance of steak10","probabilistic","steak10 Discounting",0.5,7.1875,4,7.34375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak5","20% chance of steak10","probabilistic","steak10 Discounting",0.2,5,0,9.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak7.5","20% chance of steak10","probabilistic","steak10 Discounting",0.2,7.5,1,9.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak8.75","20% chance of steak10","probabilistic","steak10 Discounting",0.2,8.75,2,9.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak9.375","20% chance of steak10","probabilistic","steak10 Discounting",0.2,9.375,3,9.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak9.6875","20% chance of steak10","probabilistic","steak10 Discounting",0.2,9.6875,4,9.84375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak5","5% chance of steak10","probabilistic","steak10 Discounting",0.05,5,0,7.34375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak7.5","5% chance of steak10","certain","steak10 Discounting",0.05,7.5,1,7.34375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak6.25","5% chance of steak10","probabilistic","steak10 Discounting",0.05,6.25,2,7.34375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak6.875","5% chance of steak10","probabilistic","steak10 Discounting",0.05,6.875,3,7.34375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak7.1875","5% chance of steak10","probabilistic","steak10 Discounting",0.05,7.1875,4,7.34375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak50","100% chance of steak100","certain","steak100 Discounting",1,50,0,7.8125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak25","100% chance of steak100","certain","steak100 Discounting",1,25,1,7.8125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak12.5","100% chance of steak100","certain","steak100 Discounting",1,12.5,2,7.8125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak6.25","100% chance of steak100","probabilistic","steak100 Discounting",1,6.25,3,7.8125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak9.375","100% chance of steak100","certain","steak100 Discounting",1,9.375,4,7.8125
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak50","75% chance of steak100","certain","steak100 Discounting",0.75,50,0,4.6875
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak25","75% chance of steak100","certain","steak100 Discounting",0.75,25,1,4.6875
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak12.5","75% chance of steak100","certain","steak100 Discounting",0.75,12.5,2,4.6875
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak6.25","75% chance of steak100","certain","steak100 Discounting",0.75,6.25,3,4.6875
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak3.125","75% chance of steak100","probabilistic","steak100 Discounting",0.75,3.125,4,4.6875
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak50","50% chance of steak100","probabilistic","steak100 Discounting",0.5,50,0,98.4375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak75","50% chance of steak100","probabilistic","steak100 Discounting",0.5,75,1,98.4375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak87.5","50% chance of steak100","probabilistic","steak100 Discounting",0.5,87.5,2,98.4375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak93.75","50% chance of steak100","probabilistic","steak100 Discounting",0.5,93.75,3,98.4375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak96.875","50% chance of steak100","probabilistic","steak100 Discounting",0.5,96.875,4,98.4375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak50","20% chance of steak100","certain","steak100 Discounting",0.2,50,0,26.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak25","20% chance of steak100","probabilistic","steak100 Discounting",0.2,25,1,26.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak37.5","20% chance of steak100","certain","steak100 Discounting",0.2,37.5,2,26.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak31.25","20% chance of steak100","certain","steak100 Discounting",0.2,31.25,3,26.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak28.125","20% chance of steak100","certain","steak100 Discounting",0.2,28.125,4,26.5625
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak50","5% chance of steak100","certain","steak100 Discounting",0.05,50,0,35.9375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak25","5% chance of steak100","probabilistic","steak100 Discounting",0.05,25,1,35.9375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak37.5","5% chance of steak100","certain","steak100 Discounting",0.05,37.5,2,35.9375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak31.25","5% chance of steak100","probabilistic","steak100 Discounting",0.05,31.25,3,35.9375
+"P426866","Iw3CNnBi7w55a8ZZN5Pkiu1v","discountingTrial","","Which would you prefer?","steak34.375","5% chance of steak100","probabilistic","steak100 Discounting",0.05,34.375,4,35.9375

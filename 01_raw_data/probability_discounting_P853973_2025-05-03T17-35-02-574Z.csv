@@ -1,0 +1,125 @@
+participantId,prolificId,eventType,questionId,question,optionA,optionB,choice,taskLabel,probability,certainAmount,trialIndex,indifferencePoint
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",23,"Which would you prefer?","60% Chance of $66 worth of Humus dishes","100% Chance of $20 worth of Humus dishes","B","Humus dishes","0.6","20","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",5,"Which would you prefer?","60% Chance of $33","100% Chance of $10","B","money","0.6","10","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",4,"Which would you prefer?","85% Chance of $33","100% Chance of $10","A","money","0.85","10","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",1,"Which would you prefer?","85% Chance of $33","100% Chance of $28","B","money","0.85","28","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",13,"Which would you prefer?","85% Chance of $33 worth of Humus dishes","100% Chance of $28 worth of Humus dishes","B","Humus dishes","0.85","28","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",24,"Which would you prefer?","30% Chance of $66 worth of Humus dishes","100% Chance of $20 worth of Humus dishes","B","Humus dishes","0.3","20","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",14,"Which would you prefer?","60% Chance of $33 worth of Humus dishes","100% Chance of $28 worth of Humus dishes","B","Humus dishes","0.6","28","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",6,"Which would you prefer?","30% Chance of $33","100% Chance of $10","B","money","0.3","10","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",15,"Which would you prefer?","30% Chance of $33 worth of Humus dishes","100% Chance of $28 worth of Humus dishes","B","Humus dishes","0.3","28","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",2,"Which would you prefer?","60% Chance of $33","100% Chance of $28","B","money","0.6","28","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",21,"Which would you prefer?","30% Chance of $66 worth of Humus dishes","100% Chance of $56 worth of Humus dishes","B","Humus dishes","0.3","56","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",11,"Which would you prefer?","60% Chance of $66","100% Chance of $20","B","money","0.6","20","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",20,"Which would you prefer?","60% Chance of $66 worth of Humus dishes","100% Chance of $56 worth of Humus dishes","B","Humus dishes","0.6","56","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",16,"Which would you prefer?","85% Chance of $33 worth of Humus dishes","100% Chance of $10 worth of Humus dishes","A","Humus dishes","0.85","10","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",9,"Which would you prefer?","30% Chance of $66","100% Chance of $56","B","money","0.3","56","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",22,"Which would you prefer?","85% Chance of $66 worth of Humus dishes","100% Chance of $20 worth of Humus dishes","A","Humus dishes","0.85","20","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",3,"Which would you prefer?","30% Chance of $33","100% Chance of $28","B","money","0.3","28","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",7,"Which would you prefer?","85% Chance of $66","100% Chance of $56","B","money","0.85","56","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",8,"Which would you prefer?","60% Chance of $66","100% Chance of $56","B","money","0.6","56","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",10,"Which would you prefer?","85% Chance of $66","100% Chance of $20","A","money","0.85","20","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",12,"Which would you prefer?","30% Chance of $66","100% Chance of $20","B","money","0.3","20","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",17,"Which would you prefer?","60% Chance of $33 worth of Humus dishes","100% Chance of $10 worth of Humus dishes","A","Humus dishes","0.6","10","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",19,"Which would you prefer?","85% Chance of $66 worth of Humus dishes","100% Chance of $56 worth of Humus dishes","B","Humus dishes","0.85","56","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","fixedChoice",18,"Which would you prefer?","30% Chance of $33 worth of Humus dishes","100% Chance of $10 worth of Humus dishes","B","Humus dishes","0.3","10","NA","NA"
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes5","100% chance of Humus dishes100","certain","Humus dishes100 Discounting",1,5,0,26.5625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes25","100% chance of Humus dishes100","probabilistic","Humus dishes100 Discounting",1,25,1,26.5625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes37.5","100% chance of Humus dishes100","certain","Humus dishes100 Discounting",1,37.5,2,26.5625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes31.25","100% chance of Humus dishes100","certain","Humus dishes100 Discounting",1,31.25,3,26.5625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes28.125","100% chance of Humus dishes100","certain","Humus dishes100 Discounting",1,28.125,4,26.5625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes50","75% chance of Humus dishes100","certain","Humus dishes100 Discounting",0.75,50,0,23.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes25","75% chance of Humus dishes100","certain","Humus dishes100 Discounting",0.75,25,1,23.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes12.5","75% chance of Humus dishes100","probabilistic","Humus dishes100 Discounting",0.75,12.5,2,23.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes18.75","75% chance of Humus dishes100","probabilistic","Humus dishes100 Discounting",0.75,18.75,3,23.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes21.875","75% chance of Humus dishes100","probabilistic","Humus dishes100 Discounting",0.75,21.875,4,23.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes50","50% chance of Humus dishes100","certain","Humus dishes100 Discounting",0.5,50,0,14.0625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes25","50% chance of Humus dishes100","certain","Humus dishes100 Discounting",0.5,25,1,14.0625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes12.5","50% chance of Humus dishes100","probabilistic","Humus dishes100 Discounting",0.5,12.5,2,14.0625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes18.75","50% chance of Humus dishes100","certain","Humus dishes100 Discounting",0.5,18.75,3,14.0625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes15.625","50% chance of Humus dishes100","certain","Humus dishes100 Discounting",0.5,15.625,4,14.0625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes50","20% chance of Humus dishes100","probabilistic","Humus dishes100 Discounting",0.2,50,0,98.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes75","20% chance of Humus dishes100","probabilistic","Humus dishes100 Discounting",0.2,75,1,98.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes87.5","20% chance of Humus dishes100","probabilistic","Humus dishes100 Discounting",0.2,87.5,2,98.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes93.75","20% chance of Humus dishes100","probabilistic","Humus dishes100 Discounting",0.2,93.75,3,98.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes96.875","20% chance of Humus dishes100","probabilistic","Humus dishes100 Discounting",0.2,96.875,4,98.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes50","5% chance of Humus dishes100","certain","Humus dishes100 Discounting",0.05,50,0,20.3125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes25","5% chance of Humus dishes100","certain","Humus dishes100 Discounting",0.05,25,1,20.3125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes12.5","5% chance of Humus dishes100","probabilistic","Humus dishes100 Discounting",0.05,12.5,2,20.3125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes18.75","5% chance of Humus dishes100","probabilistic","Humus dishes100 Discounting",0.05,18.75,3,20.3125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes21.875","5% chance of Humus dishes100","certain","Humus dishes100 Discounting",0.05,21.875,4,20.3125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$5","100% chance of $10","certain","$10 Discounting",1,5,0,3.90625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$2.5","100% chance of $10","probabilistic","$10 Discounting",1,2.5,1,3.90625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$3.75","100% chance of $10","probabilistic","$10 Discounting",1,3.75,2,3.90625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$4.375","100% chance of $10","certain","$10 Discounting",1,4.375,3,3.90625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$4.0625","100% chance of $10","certain","$10 Discounting",1,4.0625,4,3.90625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$5","75% chance of $10","certain","$10 Discounting",0.75,5,0,3.90625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$2.5","75% chance of $10","probabilistic","$10 Discounting",0.75,2.5,1,3.90625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$3.75","75% chance of $10","probabilistic","$10 Discounting",0.75,3.75,2,3.90625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$4.375","75% chance of $10","certain","$10 Discounting",0.75,4.375,3,3.90625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$4.0625","75% chance of $10","certain","$10 Discounting",0.75,4.0625,4,3.90625
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$5","50% chance of $10","certain","$10 Discounting",0.5,5,0,2.03125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$2.5","50% chance of $10","certain","$10 Discounting",0.5,2.5,1,2.03125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$1.25","50% chance of $10","probabilistic","$10 Discounting",0.5,1.25,2,2.03125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$1.875","50% chance of $10","probabilistic","$10 Discounting",0.5,1.875,3,2.03125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$2.1875","50% chance of $10","certain","$10 Discounting",0.5,2.1875,4,2.03125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$5","20% chance of $10","probabilistic","$10 Discounting",0.2,5,0,9.84375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$7.5","20% chance of $10","probabilistic","$10 Discounting",0.2,7.5,1,9.84375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$8.75","20% chance of $10","probabilistic","$10 Discounting",0.2,8.75,2,9.84375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$9.375","20% chance of $10","probabilistic","$10 Discounting",0.2,9.375,3,9.84375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$9.6875","20% chance of $10","probabilistic","$10 Discounting",0.2,9.6875,4,9.84375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$5","5% chance of $10","certain","$10 Discounting",0.05,5,0,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$2.5","5% chance of $10","certain","$10 Discounting",0.05,2.5,1,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$1.25","5% chance of $10","probabilistic","$10 Discounting",0.05,1.25,2,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$1.875","5% chance of $10","probabilistic","$10 Discounting",0.05,1.875,3,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$2.1875","5% chance of $10","probabilistic","$10 Discounting",0.05,2.1875,4,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes5","100% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",1,5,0,9.84375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes7.5","100% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",1,7.5,1,9.84375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes8.75","100% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",1,8.75,2,9.84375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes9.375","100% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",1,9.375,3,9.84375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes9.6875","100% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",1,9.6875,4,9.84375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes5","75% chance of Humus dishes10","certain","Humus dishes10 Discounting",0.75,5,0,1.09375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes2.5","75% chance of Humus dishes10","certain","Humus dishes10 Discounting",0.75,2.5,1,1.09375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes1.25","75% chance of Humus dishes10","certain","Humus dishes10 Discounting",0.75,1.25,2,1.09375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes0.625","75% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",0.75,0.625,3,1.09375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes0.9375","75% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",0.75,0.9375,4,1.09375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes5","50% chance of Humus dishes10","certain","Humus dishes10 Discounting",0.5,5,0,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes2.5","50% chance of Humus dishes10","certain","Humus dishes10 Discounting",0.5,2.5,1,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes1.25","50% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",0.5,1.25,2,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes1.875","50% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",0.5,1.875,3,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes2.1875","50% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",0.5,2.1875,4,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes5","20% chance of Humus dishes10","certain","Humus dishes10 Discounting",0.2,5,0,2.03125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes2.5","20% chance of Humus dishes10","certain","Humus dishes10 Discounting",0.2,2.5,1,2.03125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes1.25","20% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",0.2,1.25,2,2.03125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes1.875","20% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",0.2,1.875,3,2.03125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes2.1875","20% chance of Humus dishes10","certain","Humus dishes10 Discounting",0.2,2.1875,4,2.03125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes5","5% chance of Humus dishes10","certain","Humus dishes10 Discounting",0.05,5,0,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes2.5","5% chance of Humus dishes10","certain","Humus dishes10 Discounting",0.05,2.5,1,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes1.25","5% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",0.05,1.25,2,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes1.875","5% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",0.05,1.875,3,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","Humus dishes2.1875","5% chance of Humus dishes10","probabilistic","Humus dishes10 Discounting",0.05,2.1875,4,2.34375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$50","100% chance of $100","certain","$100 Discounting",1,50,0,23.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$25","100% chance of $100","certain","$100 Discounting",1,25,1,23.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$12.5","100% chance of $100","probabilistic","$100 Discounting",1,12.5,2,23.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$18.75","100% chance of $100","probabilistic","$100 Discounting",1,18.75,3,23.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$21.875","100% chance of $100","probabilistic","$100 Discounting",1,21.875,4,23.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$50","75% chance of $100","certain","$100 Discounting",0.75,50,0,32.8125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$25","75% chance of $100","probabilistic","$100 Discounting",0.75,25,1,32.8125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$37.5","75% chance of $100","certain","$100 Discounting",0.75,37.5,2,32.8125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$31.25","75% chance of $100","probabilistic","$100 Discounting",0.75,31.25,3,32.8125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$34.375","75% chance of $100","certain","$100 Discounting",0.75,34.375,4,32.8125
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$50","50% chance of $100","probabilistic","$100 Discounting",0.5,50,0,98.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$75","50% chance of $100","probabilistic","$100 Discounting",0.5,75,1,98.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$87.5","50% chance of $100","probabilistic","$100 Discounting",0.5,87.5,2,98.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$93.75","50% chance of $100","probabilistic","$100 Discounting",0.5,93.75,3,98.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$96.875","50% chance of $100","probabilistic","$100 Discounting",0.5,96.875,4,98.4375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$50","20% chance of $100","certain","$100 Discounting",0.2,50,0,10.9375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$25","20% chance of $100","certain","$100 Discounting",0.2,25,1,10.9375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$12.5","20% chance of $100","certain","$100 Discounting",0.2,12.5,2,10.9375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$6.25","20% chance of $100","probabilistic","$100 Discounting",0.2,6.25,3,10.9375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$9.375","20% chance of $100","probabilistic","$100 Discounting",0.2,9.375,4,10.9375
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$50","5% chance of $100","certain","$100 Discounting",0.05,50,0,17.1875
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$25","5% chance of $100","certain","$100 Discounting",0.05,25,1,17.1875
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$12.5","5% chance of $100","probabilistic","$100 Discounting",0.05,12.5,2,17.1875
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$18.75","5% chance of $100","certain","$100 Discounting",0.05,18.75,3,17.1875
+"P853973","675849848f0cf4eebe7cbfc7","discountingTrial","","Which would you prefer?","$15.625","5% chance of $100","probabilistic","$100 Discounting",0.05,15.625,4,17.1875

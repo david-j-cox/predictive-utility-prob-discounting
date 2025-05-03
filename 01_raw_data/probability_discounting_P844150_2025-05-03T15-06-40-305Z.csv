@@ -1,0 +1,205 @@
+participantId,eventType,questionId,question,optionA,optionB,choice,taskLabel,probability,certainAmount,trialIndex,indifferencePoint
+"P844150","fixedChoice",6,"Which would you prefer?","30% Chance of $33","100% Chance of $10","A","money","0.3","10","NA","NA"
+"P844150","fixedChoice",8,"Which would you prefer?","60% Chance of $66","100% Chance of $56","B","money","0.6","56","NA","NA"
+"P844150","fixedChoice",19,"Which would you prefer?","85% Chance of $66 worth of italian","100% Chance of $56 worth of italian","A","italian","0.85","56","NA","NA"
+"P844150","fixedChoice",7,"Which would you prefer?","85% Chance of $66","100% Chance of $56","B","money","0.85","56","NA","NA"
+"P844150","fixedChoice",3,"Which would you prefer?","30% Chance of $33","100% Chance of $28","B","money","0.3","28","NA","NA"
+"P844150","fixedChoice",9,"Which would you prefer?","30% Chance of $66","100% Chance of $56","B","money","0.3","56","NA","NA"
+"P844150","fixedChoice",2,"Which would you prefer?","60% Chance of $33","100% Chance of $28","B","money","0.6","28","NA","NA"
+"P844150","fixedChoice",1,"Which would you prefer?","85% Chance of $33","100% Chance of $28","B","money","0.85","28","NA","NA"
+"P844150","fixedChoice",5,"Which would you prefer?","60% Chance of $33","100% Chance of $10","A","money","0.6","10","NA","NA"
+"P844150","fixedChoice",13,"Which would you prefer?","85% Chance of $33 worth of italian","100% Chance of $28 worth of italian","B","italian","0.85","28","NA","NA"
+"P844150","fixedChoice",17,"Which would you prefer?","60% Chance of $33 worth of italian","100% Chance of $10 worth of italian","A","italian","0.6","10","NA","NA"
+"P844150","fixedChoice",23,"Which would you prefer?","60% Chance of $66 worth of italian","100% Chance of $20 worth of italian","A","italian","0.6","20","NA","NA"
+"P844150","fixedChoice",10,"Which would you prefer?","85% Chance of $66","100% Chance of $20","A","money","0.85","20","NA","NA"
+"P844150","fixedChoice",14,"Which would you prefer?","60% Chance of $33 worth of italian","100% Chance of $28 worth of italian","B","italian","0.6","28","NA","NA"
+"P844150","fixedChoice",11,"Which would you prefer?","60% Chance of $66","100% Chance of $20","A","money","0.6","20","NA","NA"
+"P844150","fixedChoice",24,"Which would you prefer?","30% Chance of $66 worth of italian","100% Chance of $20 worth of italian","B","italian","0.3","20","NA","NA"
+"P844150","fixedChoice",4,"Which would you prefer?","85% Chance of $33","100% Chance of $10","A","money","0.85","10","NA","NA"
+"P844150","fixedChoice",18,"Which would you prefer?","30% Chance of $33 worth of italian","100% Chance of $10 worth of italian","B","italian","0.3","10","NA","NA"
+"P844150","fixedChoice",12,"Which would you prefer?","30% Chance of $66","100% Chance of $20","A","money","0.3","20","NA","NA"
+"P844150","fixedChoice",20,"Which would you prefer?","60% Chance of $66 worth of italian","100% Chance of $56 worth of italian","B","italian","0.6","56","NA","NA"
+"P844150","fixedChoice",21,"Which would you prefer?","30% Chance of $66 worth of italian","100% Chance of $56 worth of italian","B","italian","0.3","56","NA","NA"
+"P844150","fixedChoice",15,"Which would you prefer?","30% Chance of $33 worth of italian","100% Chance of $28 worth of italian","B","italian","0.3","28","NA","NA"
+"P844150","fixedChoice",22,"Which would you prefer?","85% Chance of $66 worth of italian","100% Chance of $20 worth of italian","A","italian","0.85","20","NA","NA"
+"P844150","fixedChoice",16,"Which would you prefer?","85% Chance of $33 worth of italian","100% Chance of $10 worth of italian","B","italian","0.85","10","NA","NA"
+"P844150","discountingTrial","","Which would you prefer?","$50","100% chance of $100","probabilistic","$100 Discounting",1,50,0,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$75","100% chance of $100","probabilistic","$100 Discounting",1,75,1,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$75","100% chance of $100","probabilistic","$100 Discounting",1,75,2,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$87.5","100% chance of $100","probabilistic","$100 Discounting",1,87.5,3,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$87.5","100% chance of $100","probabilistic","$100 Discounting",1,87.5,4,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$93.75","100% chance of $100","","$100 Discounting",1,93.75,5,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$93.75","100% chance of $100","","$100 Discounting",1,93.75,6,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$96.875","100% chance of $100","","$100 Discounting",1,96.875,7,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$96.875","100% chance of $100","","$100 Discounting",1,96.875,8,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$50","75% chance of $100","certain","$100 Discounting",0.75,50,0,10.9375
+"P844150","discountingTrial","","Which would you prefer?","$25","75% chance of $100","certain","$100 Discounting",0.75,25,1,10.9375
+"P844150","discountingTrial","","Which would you prefer?","$25","75% chance of $100","probabilistic","$100 Discounting",0.75,25,2,10.9375
+"P844150","discountingTrial","","Which would you prefer?","$12.5","75% chance of $100","certain","$100 Discounting",0.75,12.5,3,10.9375
+"P844150","discountingTrial","","Which would you prefer?","$12.5","75% chance of $100","certain","$100 Discounting",0.75,12.5,4,10.9375
+"P844150","discountingTrial","","Which would you prefer?","$18.75","75% chance of $100","","$100 Discounting",0.75,18.75,5,10.9375
+"P844150","discountingTrial","","Which would you prefer?","$18.75","75% chance of $100","","$100 Discounting",0.75,18.75,6,10.9375
+"P844150","discountingTrial","","Which would you prefer?","$15.625","75% chance of $100","","$100 Discounting",0.75,15.625,7,10.9375
+"P844150","discountingTrial","","Which would you prefer?","$15.625","75% chance of $100","","$100 Discounting",0.75,15.625,8,10.9375
+"P844150","discountingTrial","","Which would you prefer?","$50","50% chance of $100","probabilistic","$100 Discounting",0.5,50,0,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$75","50% chance of $100","probabilistic","$100 Discounting",0.5,75,1,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$75","50% chance of $100","certain","$100 Discounting",0.5,75,2,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$87.5","50% chance of $100","certain","$100 Discounting",0.5,87.5,3,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$87.5","50% chance of $100","probabilistic","$100 Discounting",0.5,87.5,4,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$81.25","50% chance of $100","","$100 Discounting",0.5,81.25,5,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$81.25","50% chance of $100","","$100 Discounting",0.5,81.25,6,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$78.125","50% chance of $100","","$100 Discounting",0.5,78.125,7,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$78.125","50% chance of $100","","$100 Discounting",0.5,78.125,8,89.0625
+"P844150","discountingTrial","","Which would you prefer?","$50","20% chance of $100","probabilistic","$100 Discounting",0.2,50,0,60.9375
+"P844150","discountingTrial","","Which would you prefer?","$75","20% chance of $100","certain","$100 Discounting",0.2,75,1,60.9375
+"P844150","discountingTrial","","Which would you prefer?","$75","20% chance of $100","probabilistic","$100 Discounting",0.2,75,2,60.9375
+"P844150","discountingTrial","","Which would you prefer?","$62.5","20% chance of $100","probabilistic","$100 Discounting",0.2,62.5,3,60.9375
+"P844150","discountingTrial","","Which would you prefer?","$62.5","20% chance of $100","certain","$100 Discounting",0.2,62.5,4,60.9375
+"P844150","discountingTrial","","Which would you prefer?","$68.75","20% chance of $100","","$100 Discounting",0.2,68.75,5,60.9375
+"P844150","discountingTrial","","Which would you prefer?","$68.75","20% chance of $100","","$100 Discounting",0.2,68.75,6,60.9375
+"P844150","discountingTrial","","Which would you prefer?","$71.875","20% chance of $100","","$100 Discounting",0.2,71.875,7,60.9375
+"P844150","discountingTrial","","Which would you prefer?","$71.875","20% chance of $100","","$100 Discounting",0.2,71.875,8,60.9375
+"P844150","discountingTrial","","Which would you prefer?","$50","5% chance of $100","probabilistic","$100 Discounting",0.05,50,0,85.9375
+"P844150","discountingTrial","","Which would you prefer?","$75","5% chance of $100","probabilistic","$100 Discounting",0.05,75,1,85.9375
+"P844150","discountingTrial","","Which would you prefer?","$75","5% chance of $100","probabilistic","$100 Discounting",0.05,75,2,85.9375
+"P844150","discountingTrial","","Which would you prefer?","$87.5","5% chance of $100","certain","$100 Discounting",0.05,87.5,3,85.9375
+"P844150","discountingTrial","","Which would you prefer?","$87.5","5% chance of $100","certain","$100 Discounting",0.05,87.5,4,85.9375
+"P844150","discountingTrial","","Which would you prefer?","$93.75","5% chance of $100","","$100 Discounting",0.05,93.75,5,85.9375
+"P844150","discountingTrial","","Which would you prefer?","$93.75","5% chance of $100","","$100 Discounting",0.05,93.75,6,85.9375
+"P844150","discountingTrial","","Which would you prefer?","$90.625","5% chance of $100","","$100 Discounting",0.05,90.625,7,85.9375
+"P844150","discountingTrial","","Which would you prefer?","$90.625","5% chance of $100","","$100 Discounting",0.05,90.625,8,85.9375
+"P844150","discountingTrial","","Which would you prefer?","$5","100% chance of $10","probabilistic","$10 Discounting",1,5,0,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$7.5","100% chance of $10","probabilistic","$10 Discounting",1,7.5,1,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$7.5","100% chance of $10","probabilistic","$10 Discounting",1,7.5,2,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$8.75","100% chance of $10","probabilistic","$10 Discounting",1,8.75,3,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$8.75","100% chance of $10","probabilistic","$10 Discounting",1,8.75,4,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$9.375","100% chance of $10","","$10 Discounting",1,9.375,5,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$9.375","100% chance of $10","","$10 Discounting",1,9.375,6,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$9.6875","100% chance of $10","","$10 Discounting",1,9.6875,7,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$9.6875","100% chance of $10","","$10 Discounting",1,9.6875,8,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$5","75% chance of $10","probabilistic","$10 Discounting",0.75,5,0,6.09375
+"P844150","discountingTrial","","Which would you prefer?","$7.5","75% chance of $10","certain","$10 Discounting",0.75,7.5,1,6.09375
+"P844150","discountingTrial","","Which would you prefer?","$7.5","75% chance of $10","probabilistic","$10 Discounting",0.75,7.5,2,6.09375
+"P844150","discountingTrial","","Which would you prefer?","$6.25","75% chance of $10","probabilistic","$10 Discounting",0.75,6.25,3,6.09375
+"P844150","discountingTrial","","Which would you prefer?","$6.25","75% chance of $10","certain","$10 Discounting",0.75,6.25,4,6.09375
+"P844150","discountingTrial","","Which would you prefer?","$6.875","75% chance of $10","","$10 Discounting",0.75,6.875,5,6.09375
+"P844150","discountingTrial","","Which would you prefer?","$6.875","75% chance of $10","","$10 Discounting",0.75,6.875,6,6.09375
+"P844150","discountingTrial","","Which would you prefer?","$7.1875","75% chance of $10","","$10 Discounting",0.75,7.1875,7,6.09375
+"P844150","discountingTrial","","Which would you prefer?","$7.1875","75% chance of $10","","$10 Discounting",0.75,7.1875,8,6.09375
+"P844150","discountingTrial","","Which would you prefer?","$5","50% chance of $10","probabilistic","$10 Discounting",0.5,5,0,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$7.5","50% chance of $10","probabilistic","$10 Discounting",0.5,7.5,1,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$7.5","50% chance of $10","probabilistic","$10 Discounting",0.5,7.5,2,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$8.75","50% chance of $10","probabilistic","$10 Discounting",0.5,8.75,3,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$8.75","50% chance of $10","probabilistic","$10 Discounting",0.5,8.75,4,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$9.375","50% chance of $10","","$10 Discounting",0.5,9.375,5,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$9.375","50% chance of $10","","$10 Discounting",0.5,9.375,6,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$9.6875","50% chance of $10","","$10 Discounting",0.5,9.6875,7,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$9.6875","50% chance of $10","","$10 Discounting",0.5,9.6875,8,8.90625
+"P844150","discountingTrial","","Which would you prefer?","$5","20% chance of $10","certain","$10 Discounting",0.2,5,0,1.40625
+"P844150","discountingTrial","","Which would you prefer?","$2.5","20% chance of $10","certain","$10 Discounting",0.2,2.5,1,1.40625
+"P844150","discountingTrial","","Which would you prefer?","$2.5","20% chance of $10","probabilistic","$10 Discounting",0.2,2.5,2,1.40625
+"P844150","discountingTrial","","Which would you prefer?","$1.25","20% chance of $10","certain","$10 Discounting",0.2,1.25,3,1.40625
+"P844150","discountingTrial","","Which would you prefer?","$1.25","20% chance of $10","probabilistic","$10 Discounting",0.2,1.25,4,1.40625
+"P844150","discountingTrial","","Which would you prefer?","$1.875","20% chance of $10","","$10 Discounting",0.2,1.875,5,1.40625
+"P844150","discountingTrial","","Which would you prefer?","$1.875","20% chance of $10","","$10 Discounting",0.2,1.875,6,1.40625
+"P844150","discountingTrial","","Which would you prefer?","$1.5625","20% chance of $10","","$10 Discounting",0.2,1.5625,7,1.40625
+"P844150","discountingTrial","","Which would you prefer?","$1.5625","20% chance of $10","","$10 Discounting",0.2,1.5625,8,1.40625
+"P844150","discountingTrial","","Which would you prefer?","$5","5% chance of $10","probabilistic","$10 Discounting",0.05,5,0,8.59375
+"P844150","discountingTrial","","Which would you prefer?","$7.5","5% chance of $10","probabilistic","$10 Discounting",0.05,7.5,1,8.59375
+"P844150","discountingTrial","","Which would you prefer?","$7.5","5% chance of $10","certain","$10 Discounting",0.05,7.5,2,8.59375
+"P844150","discountingTrial","","Which would you prefer?","$8.75","5% chance of $10","probabilistic","$10 Discounting",0.05,8.75,3,8.59375
+"P844150","discountingTrial","","Which would you prefer?","$8.75","5% chance of $10","certain","$10 Discounting",0.05,8.75,4,8.59375
+"P844150","discountingTrial","","Which would you prefer?","$8.125","5% chance of $10","","$10 Discounting",0.05,8.125,5,8.59375
+"P844150","discountingTrial","","Which would you prefer?","$8.125","5% chance of $10","","$10 Discounting",0.05,8.125,6,8.59375
+"P844150","discountingTrial","","Which would you prefer?","$8.4375","5% chance of $10","","$10 Discounting",0.05,8.4375,7,8.59375
+"P844150","discountingTrial","","Which would you prefer?","$8.4375","5% chance of $10","","$10 Discounting",0.05,8.4375,8,8.59375
+"P844150","discountingTrial","","Which would you prefer?","italian50","100% chance of italian100","certain","italian100 Discounting",1,50,0,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian25","100% chance of italian100","certain","italian100 Discounting",1,25,1,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian25","100% chance of italian100","certain","italian100 Discounting",1,25,2,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian12.5","100% chance of italian100","probabilistic","italian100 Discounting",1,12.5,3,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian12.5","100% chance of italian100","certain","italian100 Discounting",1,12.5,4,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian6.25","100% chance of italian100","","italian100 Discounting",1,6.25,5,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian6.25","100% chance of italian100","","italian100 Discounting",1,6.25,6,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian9.375","100% chance of italian100","","italian100 Discounting",1,9.375,7,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian9.375","100% chance of italian100","","italian100 Discounting",1,9.375,8,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian50","75% chance of italian100","certain","italian100 Discounting",0.75,50,0,14.0625
+"P844150","discountingTrial","","Which would you prefer?","italian25","75% chance of italian100","certain","italian100 Discounting",0.75,25,1,14.0625
+"P844150","discountingTrial","","Which would you prefer?","italian25","75% chance of italian100","probabilistic","italian100 Discounting",0.75,25,2,14.0625
+"P844150","discountingTrial","","Which would you prefer?","italian12.5","75% chance of italian100","probabilistic","italian100 Discounting",0.75,12.5,3,14.0625
+"P844150","discountingTrial","","Which would you prefer?","italian12.5","75% chance of italian100","probabilistic","italian100 Discounting",0.75,12.5,4,14.0625
+"P844150","discountingTrial","","Which would you prefer?","italian18.75","75% chance of italian100","","italian100 Discounting",0.75,18.75,5,14.0625
+"P844150","discountingTrial","","Which would you prefer?","italian18.75","75% chance of italian100","","italian100 Discounting",0.75,18.75,6,14.0625
+"P844150","discountingTrial","","Which would you prefer?","italian21.875","75% chance of italian100","","italian100 Discounting",0.75,21.875,7,14.0625
+"P844150","discountingTrial","","Which would you prefer?","italian21.875","75% chance of italian100","","italian100 Discounting",0.75,21.875,8,14.0625
+"P844150","discountingTrial","","Which would you prefer?","italian50","50% chance of italian100","certain","italian100 Discounting",0.5,50,0,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian25","50% chance of italian100","certain","italian100 Discounting",0.5,25,1,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian25","50% chance of italian100","probabilistic","italian100 Discounting",0.5,25,2,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian12.5","50% chance of italian100","certain","italian100 Discounting",0.5,12.5,3,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian12.5","50% chance of italian100","certain","italian100 Discounting",0.5,12.5,4,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian18.75","50% chance of italian100","","italian100 Discounting",0.5,18.75,5,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian18.75","50% chance of italian100","","italian100 Discounting",0.5,18.75,6,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian15.625","50% chance of italian100","","italian100 Discounting",0.5,15.625,7,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian15.625","50% chance of italian100","","italian100 Discounting",0.5,15.625,8,10.9375
+"P844150","discountingTrial","","Which would you prefer?","italian50","20% chance of italian100","probabilistic","italian100 Discounting",0.2,50,0,64.0625
+"P844150","discountingTrial","","Which would you prefer?","italian75","20% chance of italian100","certain","italian100 Discounting",0.2,75,1,64.0625
+"P844150","discountingTrial","","Which would you prefer?","italian75","20% chance of italian100","probabilistic","italian100 Discounting",0.2,75,2,64.0625
+"P844150","discountingTrial","","Which would you prefer?","italian62.5","20% chance of italian100","probabilistic","italian100 Discounting",0.2,62.5,3,64.0625
+"P844150","discountingTrial","","Which would you prefer?","italian62.5","20% chance of italian100","probabilistic","italian100 Discounting",0.2,62.5,4,64.0625
+"P844150","discountingTrial","","Which would you prefer?","italian68.75","20% chance of italian100","","italian100 Discounting",0.2,68.75,5,64.0625
+"P844150","discountingTrial","","Which would you prefer?","italian68.75","20% chance of italian100","","italian100 Discounting",0.2,68.75,6,64.0625
+"P844150","discountingTrial","","Which would you prefer?","italian71.875","20% chance of italian100","","italian100 Discounting",0.2,71.875,7,64.0625
+"P844150","discountingTrial","","Which would you prefer?","italian71.875","20% chance of italian100","","italian100 Discounting",0.2,71.875,8,64.0625
+"P844150","discountingTrial","","Which would you prefer?","italian50","5% chance of italian100","probabilistic","italian100 Discounting",0.05,50,0,89.0625
+"P844150","discountingTrial","","Which would you prefer?","italian75","5% chance of italian100","probabilistic","italian100 Discounting",0.05,75,1,89.0625
+"P844150","discountingTrial","","Which would you prefer?","italian75","5% chance of italian100","probabilistic","italian100 Discounting",0.05,75,2,89.0625
+"P844150","discountingTrial","","Which would you prefer?","italian87.5","5% chance of italian100","probabilistic","italian100 Discounting",0.05,87.5,3,89.0625
+"P844150","discountingTrial","","Which would you prefer?","italian87.5","5% chance of italian100","probabilistic","italian100 Discounting",0.05,87.5,4,89.0625
+"P844150","discountingTrial","","Which would you prefer?","italian93.75","5% chance of italian100","","italian100 Discounting",0.05,93.75,5,89.0625
+"P844150","discountingTrial","","Which would you prefer?","italian93.75","5% chance of italian100","","italian100 Discounting",0.05,93.75,6,89.0625
+"P844150","discountingTrial","","Which would you prefer?","italian96.875","5% chance of italian100","","italian100 Discounting",0.05,96.875,7,89.0625
+"P844150","discountingTrial","","Which would you prefer?","italian96.875","5% chance of italian100","","italian100 Discounting",0.05,96.875,8,89.0625
+"P844150","discountingTrial","","Which would you prefer?","italian5","100% chance of italian10","probabilistic","italian10 Discounting",1,5,0,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian7.5","100% chance of italian10","probabilistic","italian10 Discounting",1,7.5,1,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian7.5","100% chance of italian10","probabilistic","italian10 Discounting",1,7.5,2,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian8.75","100% chance of italian10","certain","italian10 Discounting",1,8.75,3,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian8.75","100% chance of italian10","probabilistic","italian10 Discounting",1,8.75,4,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian9.375","100% chance of italian10","","italian10 Discounting",1,9.375,5,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian9.375","100% chance of italian10","","italian10 Discounting",1,9.375,6,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian9.0625","100% chance of italian10","","italian10 Discounting",1,9.0625,7,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian9.0625","100% chance of italian10","","italian10 Discounting",1,9.0625,8,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian5","75% chance of italian10","probabilistic","italian10 Discounting",0.75,5,0,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian7.5","75% chance of italian10","probabilistic","italian10 Discounting",0.75,7.5,1,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian7.5","75% chance of italian10","probabilistic","italian10 Discounting",0.75,7.5,2,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian8.75","75% chance of italian10","certain","italian10 Discounting",0.75,8.75,3,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian8.75","75% chance of italian10","probabilistic","italian10 Discounting",0.75,8.75,4,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian9.375","75% chance of italian10","","italian10 Discounting",0.75,9.375,5,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian9.375","75% chance of italian10","","italian10 Discounting",0.75,9.375,6,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian9.0625","75% chance of italian10","","italian10 Discounting",0.75,9.0625,7,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian9.0625","75% chance of italian10","","italian10 Discounting",0.75,9.0625,8,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian5","50% chance of italian10","probabilistic","italian10 Discounting",0.5,5,0,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian7.5","50% chance of italian10","probabilistic","italian10 Discounting",0.5,7.5,1,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian7.5","50% chance of italian10","probabilistic","italian10 Discounting",0.5,7.5,2,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian8.75","50% chance of italian10","probabilistic","italian10 Discounting",0.5,8.75,3,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian8.75","50% chance of italian10","probabilistic","italian10 Discounting",0.5,8.75,4,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian9.375","50% chance of italian10","","italian10 Discounting",0.5,9.375,5,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian9.375","50% chance of italian10","","italian10 Discounting",0.5,9.375,6,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian9.6875","50% chance of italian10","","italian10 Discounting",0.5,9.6875,7,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian9.6875","50% chance of italian10","","italian10 Discounting",0.5,9.6875,8,8.90625
+"P844150","discountingTrial","","Which would you prefer?","italian5","20% chance of italian10","probabilistic","italian10 Discounting",0.2,5,0,8.59375
+"P844150","discountingTrial","","Which would you prefer?","italian7.5","20% chance of italian10","probabilistic","italian10 Discounting",0.2,7.5,1,8.59375
+"P844150","discountingTrial","","Which would you prefer?","italian7.5","20% chance of italian10","certain","italian10 Discounting",0.2,7.5,2,8.59375
+"P844150","discountingTrial","","Which would you prefer?","italian8.75","20% chance of italian10","probabilistic","italian10 Discounting",0.2,8.75,3,8.59375
+"P844150","discountingTrial","","Which would you prefer?","italian8.75","20% chance of italian10","certain","italian10 Discounting",0.2,8.75,4,8.59375
+"P844150","discountingTrial","","Which would you prefer?","italian8.125","20% chance of italian10","","italian10 Discounting",0.2,8.125,5,8.59375
+"P844150","discountingTrial","","Which would you prefer?","italian8.125","20% chance of italian10","","italian10 Discounting",0.2,8.125,6,8.59375
+"P844150","discountingTrial","","Which would you prefer?","italian8.4375","20% chance of italian10","","italian10 Discounting",0.2,8.4375,7,8.59375
+"P844150","discountingTrial","","Which would you prefer?","italian8.4375","20% chance of italian10","","italian10 Discounting",0.2,8.4375,8,8.59375
+"P844150","discountingTrial","","Which would you prefer?","italian5","5% chance of italian10","certain","italian10 Discounting",0.05,5,0,3.90625
+"P844150","discountingTrial","","Which would you prefer?","italian2.5","5% chance of italian10","probabilistic","italian10 Discounting",0.05,2.5,1,3.90625
+"P844150","discountingTrial","","Which would you prefer?","italian2.5","5% chance of italian10","probabilistic","italian10 Discounting",0.05,2.5,2,3.90625
+"P844150","discountingTrial","","Which would you prefer?","italian3.75","5% chance of italian10","probabilistic","italian10 Discounting",0.05,3.75,3,3.90625
+"P844150","discountingTrial","","Which would you prefer?","italian3.75","5% chance of italian10","probabilistic","italian10 Discounting",0.05,3.75,4,3.90625
+"P844150","discountingTrial","","Which would you prefer?","italian4.375","5% chance of italian10","","italian10 Discounting",0.05,4.375,5,3.90625
+"P844150","discountingTrial","","Which would you prefer?","italian4.375","5% chance of italian10","","italian10 Discounting",0.05,4.375,6,3.90625
+"P844150","discountingTrial","","Which would you prefer?","italian4.6875","5% chance of italian10","","italian10 Discounting",0.05,4.6875,7,3.90625
+"P844150","discountingTrial","","Which would you prefer?","italian4.6875","5% chance of italian10","","italian10 Discounting",0.05,4.6875,8,3.90625

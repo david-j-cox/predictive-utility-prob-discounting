@@ -1,0 +1,829 @@
+{
+  "participantId": "P143219",
+  "startTime": "2025-05-03T13:51:44.763Z",
+  "endTime": "2025-05-03T14:02:43.803Z",
+  "consentGiven": true,
+  "taskResults": [
+    {
+      "label": "$10 Discounting",
+      "maxValue": 10,
+      "unit": "$",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 1.09375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 0.625,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 0.9375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 9.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 9.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 7.96875,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 8.125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 7.8125,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 2.03125,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.1875,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 3.90625,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 3.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 4.375,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 4.0625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Hamburgers100 Discounting",
+      "maxValue": 100,
+      "unit": "Hamburgers",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 45.3125,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 43.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 46.875,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 23.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 18.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 21.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 4.6875,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 3.125,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 10.9375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 98.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 87.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 93.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            },
+            {
+              "certainAmount": 96.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 Hamburgers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Hamburgers10 Discounting",
+      "maxValue": 10,
+      "unit": "Hamburgers",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 3.90625,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 3.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 4.375,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 4.0625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 7.65625,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 8.125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 7.8125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 9.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 9.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 2.03125,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 1.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 2.1875,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 3.90625,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 3.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 4.375,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            },
+            {
+              "certainAmount": 4.0625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 Hamburgers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "$100 Discounting",
+      "maxValue": 100,
+      "unit": "$",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 51.5625,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 62.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 56.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 53.125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 48.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 43.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 46.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 29.6875,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 31.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 28.125,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 10.9375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 17.1875,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 18.75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 15.625,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fixedChoiceQuestions": [
+    {
+      "id": 19,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66 worth of Hamburgers",
+      "optionB": "100% Chance of $56 worth of Hamburgers",
+      "choice": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33 worth of Hamburgers",
+      "optionB": "100% Chance of $28 worth of Hamburgers",
+      "choice": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66 worth of Hamburgers",
+      "optionB": "100% Chance of $20 worth of Hamburgers",
+      "choice": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66 worth of Hamburgers",
+      "optionB": "100% Chance of $20 worth of Hamburgers",
+      "choice": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66 worth of Hamburgers",
+      "optionB": "100% Chance of $56 worth of Hamburgers",
+      "choice": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33 worth of Hamburgers",
+      "optionB": "100% Chance of $10 worth of Hamburgers",
+      "choice": "A"
+    },
+    {
+      "id": 8,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33 worth of Hamburgers",
+      "optionB": "100% Chance of $10 worth of Hamburgers",
+      "choice": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "B"
+    },
+    {
+      "id": 17,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33 worth of Hamburgers",
+      "optionB": "100% Chance of $10 worth of Hamburgers",
+      "choice": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33 worth of Hamburgers",
+      "optionB": "100% Chance of $28 worth of Hamburgers",
+      "choice": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "A"
+    },
+    {
+      "id": 5,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "A"
+    },
+    {
+      "id": 22,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66 worth of Hamburgers",
+      "optionB": "100% Chance of $20 worth of Hamburgers",
+      "choice": "A"
+    },
+    {
+      "id": 14,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33 worth of Hamburgers",
+      "optionB": "100% Chance of $28 worth of Hamburgers",
+      "choice": "B"
+    },
+    {
+      "id": 1,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "A"
+    },
+    {
+      "id": 20,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66 worth of Hamburgers",
+      "optionB": "100% Chance of $56 worth of Hamburgers",
+      "choice": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    }
+  ],
+  "prolificId": "5bd4c1d09afb5b00015c5bdd",
+  "favoriteFood": "Hamburgers",
+  "uploadStatus": "failed"
+}

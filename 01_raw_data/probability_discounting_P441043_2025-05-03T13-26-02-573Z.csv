@@ -1,0 +1,205 @@
+participantId,eventType,questionId,question,optionA,optionB,choice,taskLabel,probability,certainAmount,trialIndex,indifferencePoint
+"P441043","fixedChoice",13,"Which would you prefer?","85% Chance of $33 worth of burger and fries","100% Chance of $28 worth of burger and fries","B","burger and fries","0.85","28","NA","NA"
+"P441043","fixedChoice",1,"Which would you prefer?","85% Chance of $33","100% Chance of $28","B","money","0.85","28","NA","NA"
+"P441043","fixedChoice",23,"Which would you prefer?","60% Chance of $66 worth of burger and fries","100% Chance of $20 worth of burger and fries","B","burger and fries","0.6","20","NA","NA"
+"P441043","fixedChoice",18,"Which would you prefer?","30% Chance of $33 worth of burger and fries","100% Chance of $10 worth of burger and fries","A","burger and fries","0.3","10","NA","NA"
+"P441043","fixedChoice",22,"Which would you prefer?","85% Chance of $66 worth of burger and fries","100% Chance of $20 worth of burger and fries","B","burger and fries","0.85","20","NA","NA"
+"P441043","fixedChoice",2,"Which would you prefer?","60% Chance of $33","100% Chance of $28","B","money","0.6","28","NA","NA"
+"P441043","fixedChoice",3,"Which would you prefer?","30% Chance of $33","100% Chance of $28","B","money","0.3","28","NA","NA"
+"P441043","fixedChoice",9,"Which would you prefer?","30% Chance of $66","100% Chance of $56","B","money","0.3","56","NA","NA"
+"P441043","fixedChoice",11,"Which would you prefer?","60% Chance of $66","100% Chance of $20","A","money","0.6","20","NA","NA"
+"P441043","fixedChoice",16,"Which would you prefer?","85% Chance of $33 worth of burger and fries","100% Chance of $10 worth of burger and fries","A","burger and fries","0.85","10","NA","NA"
+"P441043","fixedChoice",14,"Which would you prefer?","60% Chance of $33 worth of burger and fries","100% Chance of $28 worth of burger and fries","B","burger and fries","0.6","28","NA","NA"
+"P441043","fixedChoice",10,"Which would you prefer?","85% Chance of $66","100% Chance of $20","A","money","0.85","20","NA","NA"
+"P441043","fixedChoice",4,"Which would you prefer?","85% Chance of $33","100% Chance of $10","A","money","0.85","10","NA","NA"
+"P441043","fixedChoice",15,"Which would you prefer?","30% Chance of $33 worth of burger and fries","100% Chance of $28 worth of burger and fries","B","burger and fries","0.3","28","NA","NA"
+"P441043","fixedChoice",5,"Which would you prefer?","60% Chance of $33","100% Chance of $10","A","money","0.6","10","NA","NA"
+"P441043","fixedChoice",8,"Which would you prefer?","60% Chance of $66","100% Chance of $56","B","money","0.6","56","NA","NA"
+"P441043","fixedChoice",19,"Which would you prefer?","85% Chance of $66 worth of burger and fries","100% Chance of $56 worth of burger and fries","B","burger and fries","0.85","56","NA","NA"
+"P441043","fixedChoice",21,"Which would you prefer?","30% Chance of $66 worth of burger and fries","100% Chance of $56 worth of burger and fries","B","burger and fries","0.3","56","NA","NA"
+"P441043","fixedChoice",6,"Which would you prefer?","30% Chance of $33","100% Chance of $10","B","money","0.3","10","NA","NA"
+"P441043","fixedChoice",12,"Which would you prefer?","30% Chance of $66","100% Chance of $20","A","money","0.3","20","NA","NA"
+"P441043","fixedChoice",17,"Which would you prefer?","60% Chance of $33 worth of burger and fries","100% Chance of $10 worth of burger and fries","A","burger and fries","0.6","10","NA","NA"
+"P441043","fixedChoice",20,"Which would you prefer?","60% Chance of $66 worth of burger and fries","100% Chance of $56 worth of burger and fries","B","burger and fries","0.6","56","NA","NA"
+"P441043","fixedChoice",24,"Which would you prefer?","30% Chance of $66 worth of burger and fries","100% Chance of $20 worth of burger and fries","B","burger and fries","0.3","20","NA","NA"
+"P441043","fixedChoice",7,"Which would you prefer?","85% Chance of $66","100% Chance of $56","B","money","0.85","56","NA","NA"
+"P441043","discountingTrial","","Which would you prefer?","$5","100% chance of $100","certain","$100 Discounting",1,5,0,14.0625
+"P441043","discountingTrial","","Which would you prefer?","$25","100% chance of $100","certain","$100 Discounting",1,25,1,14.0625
+"P441043","discountingTrial","","Which would you prefer?","$25","100% chance of $100","certain","$100 Discounting",1,25,2,14.0625
+"P441043","discountingTrial","","Which would you prefer?","$12.5","100% chance of $100","certain","$100 Discounting",1,12.5,3,14.0625
+"P441043","discountingTrial","","Which would you prefer?","$12.5","100% chance of $100","probabilistic","$100 Discounting",1,12.5,4,14.0625
+"P441043","discountingTrial","","Which would you prefer?","$6.25","100% chance of $100","","$100 Discounting",1,6.25,5,14.0625
+"P441043","discountingTrial","","Which would you prefer?","$6.25","100% chance of $100","","$100 Discounting",1,6.25,6,14.0625
+"P441043","discountingTrial","","Which would you prefer?","$3.125","100% chance of $100","","$100 Discounting",1,3.125,7,14.0625
+"P441043","discountingTrial","","Which would you prefer?","$3.125","100% chance of $100","","$100 Discounting",1,3.125,8,14.0625
+"P441043","discountingTrial","","Which would you prefer?","$50","75% chance of $100","probabilistic","$100 Discounting",0.75,50,0,85.9375
+"P441043","discountingTrial","","Which would you prefer?","$75","75% chance of $100","probabilistic","$100 Discounting",0.75,75,1,85.9375
+"P441043","discountingTrial","","Which would you prefer?","$75","75% chance of $100","probabilistic","$100 Discounting",0.75,75,2,85.9375
+"P441043","discountingTrial","","Which would you prefer?","$87.5","75% chance of $100","certain","$100 Discounting",0.75,87.5,3,85.9375
+"P441043","discountingTrial","","Which would you prefer?","$87.5","75% chance of $100","certain","$100 Discounting",0.75,87.5,4,85.9375
+"P441043","discountingTrial","","Which would you prefer?","$93.75","75% chance of $100","","$100 Discounting",0.75,93.75,5,85.9375
+"P441043","discountingTrial","","Which would you prefer?","$93.75","75% chance of $100","","$100 Discounting",0.75,93.75,6,85.9375
+"P441043","discountingTrial","","Which would you prefer?","$90.625","75% chance of $100","","$100 Discounting",0.75,90.625,7,85.9375
+"P441043","discountingTrial","","Which would you prefer?","$90.625","75% chance of $100","","$100 Discounting",0.75,90.625,8,85.9375
+"P441043","discountingTrial","","Which would you prefer?","$50","50% chance of $100","probabilistic","$100 Discounting",0.5,50,0,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$75","50% chance of $100","probabilistic","$100 Discounting",0.5,75,1,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$75","50% chance of $100","certain","$100 Discounting",0.5,75,2,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$87.5","50% chance of $100","certain","$100 Discounting",0.5,87.5,3,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$87.5","50% chance of $100","probabilistic","$100 Discounting",0.5,87.5,4,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$81.25","50% chance of $100","","$100 Discounting",0.5,81.25,5,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$81.25","50% chance of $100","","$100 Discounting",0.5,81.25,6,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$78.125","50% chance of $100","","$100 Discounting",0.5,78.125,7,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$78.125","50% chance of $100","","$100 Discounting",0.5,78.125,8,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$50","20% chance of $100","probabilistic","$100 Discounting",0.2,50,0,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$75","20% chance of $100","probabilistic","$100 Discounting",0.2,75,1,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$75","20% chance of $100","probabilistic","$100 Discounting",0.2,75,2,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$87.5","20% chance of $100","probabilistic","$100 Discounting",0.2,87.5,3,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$87.5","20% chance of $100","probabilistic","$100 Discounting",0.2,87.5,4,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$93.75","20% chance of $100","","$100 Discounting",0.2,93.75,5,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$93.75","20% chance of $100","","$100 Discounting",0.2,93.75,6,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$96.875","20% chance of $100","","$100 Discounting",0.2,96.875,7,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$96.875","20% chance of $100","","$100 Discounting",0.2,96.875,8,89.0625
+"P441043","discountingTrial","","Which would you prefer?","$50","5% chance of $100","certain","$100 Discounting",0.05,50,0,39.0625
+"P441043","discountingTrial","","Which would you prefer?","$25","5% chance of $100","probabilistic","$100 Discounting",0.05,25,1,39.0625
+"P441043","discountingTrial","","Which would you prefer?","$25","5% chance of $100","probabilistic","$100 Discounting",0.05,25,2,39.0625
+"P441043","discountingTrial","","Which would you prefer?","$37.5","5% chance of $100","probabilistic","$100 Discounting",0.05,37.5,3,39.0625
+"P441043","discountingTrial","","Which would you prefer?","$37.5","5% chance of $100","probabilistic","$100 Discounting",0.05,37.5,4,39.0625
+"P441043","discountingTrial","","Which would you prefer?","$43.75","5% chance of $100","","$100 Discounting",0.05,43.75,5,39.0625
+"P441043","discountingTrial","","Which would you prefer?","$43.75","5% chance of $100","","$100 Discounting",0.05,43.75,6,39.0625
+"P441043","discountingTrial","","Which would you prefer?","$46.875","5% chance of $100","","$100 Discounting",0.05,46.875,7,39.0625
+"P441043","discountingTrial","","Which would you prefer?","$46.875","5% chance of $100","","$100 Discounting",0.05,46.875,8,39.0625
+"P441043","discountingTrial","","Which would you prefer?","$5","100% chance of $10","certain","$10 Discounting",1,5,0,3.59375
+"P441043","discountingTrial","","Which would you prefer?","$2.5","100% chance of $10","probabilistic","$10 Discounting",1,2.5,1,3.59375
+"P441043","discountingTrial","","Which would you prefer?","$2.5","100% chance of $10","probabilistic","$10 Discounting",1,2.5,2,3.59375
+"P441043","discountingTrial","","Which would you prefer?","$3.75","100% chance of $10","probabilistic","$10 Discounting",1,3.75,3,3.59375
+"P441043","discountingTrial","","Which would you prefer?","$3.75","100% chance of $10","certain","$10 Discounting",1,3.75,4,3.59375
+"P441043","discountingTrial","","Which would you prefer?","$4.375","100% chance of $10","","$10 Discounting",1,4.375,5,3.59375
+"P441043","discountingTrial","","Which would you prefer?","$4.375","100% chance of $10","","$10 Discounting",1,4.375,6,3.59375
+"P441043","discountingTrial","","Which would you prefer?","$4.6875","100% chance of $10","","$10 Discounting",1,4.6875,7,3.59375
+"P441043","discountingTrial","","Which would you prefer?","$4.6875","100% chance of $10","","$10 Discounting",1,4.6875,8,3.59375
+"P441043","discountingTrial","","Which would you prefer?","$5","75% chance of $10","probabilistic","$10 Discounting",0.75,5,0,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$7.5","75% chance of $10","probabilistic","$10 Discounting",0.75,7.5,1,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$7.5","75% chance of $10","probabilistic","$10 Discounting",0.75,7.5,2,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$8.75","75% chance of $10","probabilistic","$10 Discounting",0.75,8.75,3,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$8.75","75% chance of $10","certain","$10 Discounting",0.75,8.75,4,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$9.375","75% chance of $10","","$10 Discounting",0.75,9.375,5,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$9.375","75% chance of $10","","$10 Discounting",0.75,9.375,6,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$9.6875","75% chance of $10","","$10 Discounting",0.75,9.6875,7,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$9.6875","75% chance of $10","","$10 Discounting",0.75,9.6875,8,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$5","50% chance of $10","probabilistic","$10 Discounting",0.5,5,0,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$7.5","50% chance of $10","probabilistic","$10 Discounting",0.5,7.5,1,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$7.5","50% chance of $10","certain","$10 Discounting",0.5,7.5,2,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$8.75","50% chance of $10","probabilistic","$10 Discounting",0.5,8.75,3,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$8.75","50% chance of $10","certain","$10 Discounting",0.5,8.75,4,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$8.125","50% chance of $10","","$10 Discounting",0.5,8.125,5,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$8.125","50% chance of $10","","$10 Discounting",0.5,8.125,6,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$8.4375","50% chance of $10","","$10 Discounting",0.5,8.4375,7,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$8.4375","50% chance of $10","","$10 Discounting",0.5,8.4375,8,8.59375
+"P441043","discountingTrial","","Which would you prefer?","$5","20% chance of $10","probabilistic","$10 Discounting",0.2,5,0,8.90625
+"P441043","discountingTrial","","Which would you prefer?","$7.5","20% chance of $10","probabilistic","$10 Discounting",0.2,7.5,1,8.90625
+"P441043","discountingTrial","","Which would you prefer?","$7.5","20% chance of $10","probabilistic","$10 Discounting",0.2,7.5,2,8.90625
+"P441043","discountingTrial","","Which would you prefer?","$8.75","20% chance of $10","probabilistic","$10 Discounting",0.2,8.75,3,8.90625
+"P441043","discountingTrial","","Which would you prefer?","$8.75","20% chance of $10","probabilistic","$10 Discounting",0.2,8.75,4,8.90625
+"P441043","discountingTrial","","Which would you prefer?","$9.375","20% chance of $10","","$10 Discounting",0.2,9.375,5,8.90625
+"P441043","discountingTrial","","Which would you prefer?","$9.375","20% chance of $10","","$10 Discounting",0.2,9.375,6,8.90625
+"P441043","discountingTrial","","Which would you prefer?","$9.6875","20% chance of $10","","$10 Discounting",0.2,9.6875,7,8.90625
+"P441043","discountingTrial","","Which would you prefer?","$9.6875","20% chance of $10","","$10 Discounting",0.2,9.6875,8,8.90625
+"P441043","discountingTrial","","Which would you prefer?","$5","5% chance of $10","probabilistic","$10 Discounting",0.05,5,0,6.09375
+"P441043","discountingTrial","","Which would you prefer?","$7.5","5% chance of $10","certain","$10 Discounting",0.05,7.5,1,6.09375
+"P441043","discountingTrial","","Which would you prefer?","$7.5","5% chance of $10","certain","$10 Discounting",0.05,7.5,2,6.09375
+"P441043","discountingTrial","","Which would you prefer?","$6.25","5% chance of $10","probabilistic","$10 Discounting",0.05,6.25,3,6.09375
+"P441043","discountingTrial","","Which would you prefer?","$6.25","5% chance of $10","certain","$10 Discounting",0.05,6.25,4,6.09375
+"P441043","discountingTrial","","Which would you prefer?","$5.625","5% chance of $10","","$10 Discounting",0.05,5.625,5,6.09375
+"P441043","discountingTrial","","Which would you prefer?","$5.625","5% chance of $10","","$10 Discounting",0.05,5.625,6,6.09375
+"P441043","discountingTrial","","Which would you prefer?","$5.9375","5% chance of $10","","$10 Discounting",0.05,5.9375,7,6.09375
+"P441043","discountingTrial","","Which would you prefer?","$5.9375","5% chance of $10","","$10 Discounting",0.05,5.9375,8,6.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries50","100% chance of burger and fries100","certain","burger and fries100 Discounting",1,50,0,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries25","100% chance of burger and fries100","certain","burger and fries100 Discounting",1,25,1,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries25","100% chance of burger and fries100","probabilistic","burger and fries100 Discounting",1,25,2,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries12.5","100% chance of burger and fries100","certain","burger and fries100 Discounting",1,12.5,3,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries12.5","100% chance of burger and fries100","certain","burger and fries100 Discounting",1,12.5,4,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries18.75","100% chance of burger and fries100","","burger and fries100 Discounting",1,18.75,5,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries18.75","100% chance of burger and fries100","","burger and fries100 Discounting",1,18.75,6,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries15.625","100% chance of burger and fries100","","burger and fries100 Discounting",1,15.625,7,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries15.625","100% chance of burger and fries100","","burger and fries100 Discounting",1,15.625,8,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries50","75% chance of burger and fries100","probabilistic","burger and fries100 Discounting",0.75,50,0,60.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries75","75% chance of burger and fries100","certain","burger and fries100 Discounting",0.75,75,1,60.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries75","75% chance of burger and fries100","certain","burger and fries100 Discounting",0.75,75,2,60.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries62.5","75% chance of burger and fries100","certain","burger and fries100 Discounting",0.75,62.5,3,60.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries62.5","75% chance of burger and fries100","certain","burger and fries100 Discounting",0.75,62.5,4,60.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries56.25","75% chance of burger and fries100","","burger and fries100 Discounting",0.75,56.25,5,60.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries56.25","75% chance of burger and fries100","","burger and fries100 Discounting",0.75,56.25,6,60.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries53.125","75% chance of burger and fries100","","burger and fries100 Discounting",0.75,53.125,7,60.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries53.125","75% chance of burger and fries100","","burger and fries100 Discounting",0.75,53.125,8,60.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries50","50% chance of burger and fries100","certain","burger and fries100 Discounting",0.5,50,0,35.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries25","50% chance of burger and fries100","probabilistic","burger and fries100 Discounting",0.5,25,1,35.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries25","50% chance of burger and fries100","probabilistic","burger and fries100 Discounting",0.5,25,2,35.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries37.5","50% chance of burger and fries100","certain","burger and fries100 Discounting",0.5,37.5,3,35.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries37.5","50% chance of burger and fries100","certain","burger and fries100 Discounting",0.5,37.5,4,35.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries43.75","50% chance of burger and fries100","","burger and fries100 Discounting",0.5,43.75,5,35.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries43.75","50% chance of burger and fries100","","burger and fries100 Discounting",0.5,43.75,6,35.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries40.625","50% chance of burger and fries100","","burger and fries100 Discounting",0.5,40.625,7,35.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries40.625","50% chance of burger and fries100","","burger and fries100 Discounting",0.5,40.625,8,35.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries50","20% chance of burger and fries100","certain","burger and fries100 Discounting",0.2,50,0,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries25","20% chance of burger and fries100","certain","burger and fries100 Discounting",0.2,25,1,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries25","20% chance of burger and fries100","certain","burger and fries100 Discounting",0.2,25,2,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries12.5","20% chance of burger and fries100","probabilistic","burger and fries100 Discounting",0.2,12.5,3,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries12.5","20% chance of burger and fries100","certain","burger and fries100 Discounting",0.2,12.5,4,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries6.25","20% chance of burger and fries100","","burger and fries100 Discounting",0.2,6.25,5,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries6.25","20% chance of burger and fries100","","burger and fries100 Discounting",0.2,6.25,6,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries9.375","20% chance of burger and fries100","","burger and fries100 Discounting",0.2,9.375,7,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries9.375","20% chance of burger and fries100","","burger and fries100 Discounting",0.2,9.375,8,10.9375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries50","5% chance of burger and fries100","probabilistic","burger and fries100 Discounting",0.05,50,0,64.0625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries75","5% chance of burger and fries100","certain","burger and fries100 Discounting",0.05,75,1,64.0625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries75","5% chance of burger and fries100","probabilistic","burger and fries100 Discounting",0.05,75,2,64.0625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries62.5","5% chance of burger and fries100","certain","burger and fries100 Discounting",0.05,62.5,3,64.0625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries62.5","5% chance of burger and fries100","probabilistic","burger and fries100 Discounting",0.05,62.5,4,64.0625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries68.75","5% chance of burger and fries100","","burger and fries100 Discounting",0.05,68.75,5,64.0625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries68.75","5% chance of burger and fries100","","burger and fries100 Discounting",0.05,68.75,6,64.0625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries65.625","5% chance of burger and fries100","","burger and fries100 Discounting",0.05,65.625,7,64.0625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries65.625","5% chance of burger and fries100","","burger and fries100 Discounting",0.05,65.625,8,64.0625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries5","100% chance of burger and fries10","certain","burger and fries10 Discounting",1,5,0,3.59375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries2.5","100% chance of burger and fries10","probabilistic","burger and fries10 Discounting",1,2.5,1,3.59375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries2.5","100% chance of burger and fries10","probabilistic","burger and fries10 Discounting",1,2.5,2,3.59375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries3.75","100% chance of burger and fries10","probabilistic","burger and fries10 Discounting",1,3.75,3,3.59375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries3.75","100% chance of burger and fries10","certain","burger and fries10 Discounting",1,3.75,4,3.59375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries4.375","100% chance of burger and fries10","","burger and fries10 Discounting",1,4.375,5,3.59375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries4.375","100% chance of burger and fries10","","burger and fries10 Discounting",1,4.375,6,3.59375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries4.6875","100% chance of burger and fries10","","burger and fries10 Discounting",1,4.6875,7,3.59375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries4.6875","100% chance of burger and fries10","","burger and fries10 Discounting",1,4.6875,8,3.59375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries5","75% chance of burger and fries10","probabilistic","burger and fries10 Discounting",0.75,5,0,6.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries7.5","75% chance of burger and fries10","certain","burger and fries10 Discounting",0.75,7.5,1,6.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries7.5","75% chance of burger and fries10","certain","burger and fries10 Discounting",0.75,7.5,2,6.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries6.25","75% chance of burger and fries10","certain","burger and fries10 Discounting",0.75,6.25,3,6.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries6.25","75% chance of burger and fries10","certain","burger and fries10 Discounting",0.75,6.25,4,6.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries5.625","75% chance of burger and fries10","","burger and fries10 Discounting",0.75,5.625,5,6.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries5.625","75% chance of burger and fries10","","burger and fries10 Discounting",0.75,5.625,6,6.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries5.3125","75% chance of burger and fries10","","burger and fries10 Discounting",0.75,5.3125,7,6.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries5.3125","75% chance of burger and fries10","","burger and fries10 Discounting",0.75,5.3125,8,6.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries5","50% chance of burger and fries10","probabilistic","burger and fries10 Discounting",0.5,5,0,8.90625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries7.5","50% chance of burger and fries10","probabilistic","burger and fries10 Discounting",0.5,7.5,1,8.90625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries7.5","50% chance of burger and fries10","probabilistic","burger and fries10 Discounting",0.5,7.5,2,8.90625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries8.75","50% chance of burger and fries10","probabilistic","burger and fries10 Discounting",0.5,8.75,3,8.90625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries8.75","50% chance of burger and fries10","probabilistic","burger and fries10 Discounting",0.5,8.75,4,8.90625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries9.375","50% chance of burger and fries10","","burger and fries10 Discounting",0.5,9.375,5,8.90625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries9.375","50% chance of burger and fries10","","burger and fries10 Discounting",0.5,9.375,6,8.90625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries9.6875","50% chance of burger and fries10","","burger and fries10 Discounting",0.5,9.6875,7,8.90625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries9.6875","50% chance of burger and fries10","","burger and fries10 Discounting",0.5,9.6875,8,8.90625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries5","20% chance of burger and fries10","certain","burger and fries10 Discounting",0.2,5,0,1.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries2.5","20% chance of burger and fries10","certain","burger and fries10 Discounting",0.2,2.5,1,1.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries2.5","20% chance of burger and fries10","probabilistic","burger and fries10 Discounting",0.2,2.5,2,1.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries1.25","20% chance of burger and fries10","certain","burger and fries10 Discounting",0.2,1.25,3,1.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries1.25","20% chance of burger and fries10","certain","burger and fries10 Discounting",0.2,1.25,4,1.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries1.875","20% chance of burger and fries10","","burger and fries10 Discounting",0.2,1.875,5,1.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries1.875","20% chance of burger and fries10","","burger and fries10 Discounting",0.2,1.875,6,1.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries1.5625","20% chance of burger and fries10","","burger and fries10 Discounting",0.2,1.5625,7,1.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries1.5625","20% chance of burger and fries10","","burger and fries10 Discounting",0.2,1.5625,8,1.09375
+"P441043","discountingTrial","","Which would you prefer?","burger and fries5","5% chance of burger and fries10","probabilistic","burger and fries10 Discounting",0.05,5,0,6.40625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries7.5","5% chance of burger and fries10","certain","burger and fries10 Discounting",0.05,7.5,1,6.40625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries7.5","5% chance of burger and fries10","probabilistic","burger and fries10 Discounting",0.05,7.5,2,6.40625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries6.25","5% chance of burger and fries10","certain","burger and fries10 Discounting",0.05,6.25,3,6.40625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries6.25","5% chance of burger and fries10","probabilistic","burger and fries10 Discounting",0.05,6.25,4,6.40625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries6.875","5% chance of burger and fries10","","burger and fries10 Discounting",0.05,6.875,5,6.40625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries6.875","5% chance of burger and fries10","","burger and fries10 Discounting",0.05,6.875,6,6.40625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries6.5625","5% chance of burger and fries10","","burger and fries10 Discounting",0.05,6.5625,7,6.40625
+"P441043","discountingTrial","","Which would you prefer?","burger and fries6.5625","5% chance of burger and fries10","","burger and fries10 Discounting",0.05,6.5625,8,6.40625

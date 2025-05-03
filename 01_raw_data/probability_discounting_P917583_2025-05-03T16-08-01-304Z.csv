@@ -1,0 +1,125 @@
+participantId,prolificId,eventType,questionId,question,optionA,optionB,choice,taskLabel,probability,certainAmount,trialIndex,indifferencePoint
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",10,"Which would you prefer?","85% Chance of $66","100% Chance of $20","B","money","0.85","20","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",1,"Which would you prefer?","85% Chance of $33","100% Chance of $28","B","money","0.85","28","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",12,"Which would you prefer?","30% Chance of $66","100% Chance of $20","B","money","0.3","20","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",19,"Which would you prefer?","85% Chance of $66 worth of pasta","100% Chance of $56 worth of pasta","B","pasta","0.85","56","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",13,"Which would you prefer?","85% Chance of $33 worth of pasta","100% Chance of $28 worth of pasta","B","pasta","0.85","28","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",24,"Which would you prefer?","30% Chance of $66 worth of pasta","100% Chance of $20 worth of pasta","B","pasta","0.3","20","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",21,"Which would you prefer?","30% Chance of $66 worth of pasta","100% Chance of $56 worth of pasta","B","pasta","0.3","56","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",17,"Which would you prefer?","60% Chance of $33 worth of pasta","100% Chance of $10 worth of pasta","B","pasta","0.6","10","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",2,"Which would you prefer?","60% Chance of $33","100% Chance of $28","B","money","0.6","28","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",9,"Which would you prefer?","30% Chance of $66","100% Chance of $56","B","money","0.3","56","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",3,"Which would you prefer?","30% Chance of $33","100% Chance of $28","B","money","0.3","28","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",8,"Which would you prefer?","60% Chance of $66","100% Chance of $56","B","money","0.6","56","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",6,"Which would you prefer?","30% Chance of $33","100% Chance of $10","B","money","0.3","10","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",5,"Which would you prefer?","60% Chance of $33","100% Chance of $10","B","money","0.6","10","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",16,"Which would you prefer?","85% Chance of $33 worth of pasta","100% Chance of $10 worth of pasta","B","pasta","0.85","10","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",15,"Which would you prefer?","30% Chance of $33 worth of pasta","100% Chance of $28 worth of pasta","B","pasta","0.3","28","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",22,"Which would you prefer?","85% Chance of $66 worth of pasta","100% Chance of $20 worth of pasta","B","pasta","0.85","20","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",7,"Which would you prefer?","85% Chance of $66","100% Chance of $56","B","money","0.85","56","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",4,"Which would you prefer?","85% Chance of $33","100% Chance of $10","B","money","0.85","10","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",14,"Which would you prefer?","60% Chance of $33 worth of pasta","100% Chance of $28 worth of pasta","B","pasta","0.6","28","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",18,"Which would you prefer?","30% Chance of $33 worth of pasta","100% Chance of $10 worth of pasta","B","pasta","0.3","10","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",20,"Which would you prefer?","60% Chance of $66 worth of pasta","100% Chance of $56 worth of pasta","B","pasta","0.6","56","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",11,"Which would you prefer?","60% Chance of $66","100% Chance of $20","B","money","0.6","20","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","fixedChoice",23,"Which would you prefer?","60% Chance of $66 worth of pasta","100% Chance of $20 worth of pasta","B","pasta","0.6","20","NA","NA"
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta50","100% chance of pasta100","certain","pasta100 Discounting",1,50,0,4.6875
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta25","100% chance of pasta100","certain","pasta100 Discounting",1,25,1,4.6875
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta12.5","100% chance of pasta100","certain","pasta100 Discounting",1,12.5,2,4.6875
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta6.25","100% chance of pasta100","certain","pasta100 Discounting",1,6.25,3,4.6875
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta3.125","100% chance of pasta100","probabilistic","pasta100 Discounting",1,3.125,4,4.6875
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta50","75% chance of pasta100","certain","pasta100 Discounting",0.75,50,0,10.9375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta25","75% chance of pasta100","certain","pasta100 Discounting",0.75,25,1,10.9375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta12.5","75% chance of pasta100","certain","pasta100 Discounting",0.75,12.5,2,10.9375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta6.25","75% chance of pasta100","probabilistic","pasta100 Discounting",0.75,6.25,3,10.9375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta9.375","75% chance of pasta100","probabilistic","pasta100 Discounting",0.75,9.375,4,10.9375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta50","50% chance of pasta100","certain","pasta100 Discounting",0.5,50,0,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta25","50% chance of pasta100","certain","pasta100 Discounting",0.5,25,1,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta12.5","50% chance of pasta100","probabilistic","pasta100 Discounting",0.5,12.5,2,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta18.75","50% chance of pasta100","probabilistic","pasta100 Discounting",0.5,18.75,3,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta21.875","50% chance of pasta100","probabilistic","pasta100 Discounting",0.5,21.875,4,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta50","20% chance of pasta100","certain","pasta100 Discounting",0.2,50,0,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta25","20% chance of pasta100","certain","pasta100 Discounting",0.2,25,1,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta12.5","20% chance of pasta100","probabilistic","pasta100 Discounting",0.2,12.5,2,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta18.75","20% chance of pasta100","probabilistic","pasta100 Discounting",0.2,18.75,3,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta21.875","20% chance of pasta100","probabilistic","pasta100 Discounting",0.2,21.875,4,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta50","5% chance of pasta100","certain","pasta100 Discounting",0.05,50,0,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta25","5% chance of pasta100","certain","pasta100 Discounting",0.05,25,1,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta12.5","5% chance of pasta100","probabilistic","pasta100 Discounting",0.05,12.5,2,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta18.75","5% chance of pasta100","probabilistic","pasta100 Discounting",0.05,18.75,3,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta21.875","5% chance of pasta100","probabilistic","pasta100 Discounting",0.05,21.875,4,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$50","100% chance of $100","certain","$100 Discounting",1,50,0,39.0625
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$25","100% chance of $100","probabilistic","$100 Discounting",1,25,1,39.0625
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$37.5","100% chance of $100","probabilistic","$100 Discounting",1,37.5,2,39.0625
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$43.75","100% chance of $100","certain","$100 Discounting",1,43.75,3,39.0625
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$40.625","100% chance of $100","certain","$100 Discounting",1,40.625,4,39.0625
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$50","75% chance of $100","certain","$100 Discounting",0.75,50,0,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$25","75% chance of $100","certain","$100 Discounting",0.75,25,1,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$12.5","75% chance of $100","probabilistic","$100 Discounting",0.75,12.5,2,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$18.75","75% chance of $100","probabilistic","$100 Discounting",0.75,18.75,3,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$21.875","75% chance of $100","probabilistic","$100 Discounting",0.75,21.875,4,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$50","50% chance of $100","certain","$100 Discounting",0.5,50,0,10.9375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$25","50% chance of $100","certain","$100 Discounting",0.5,25,1,10.9375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$12.5","50% chance of $100","certain","$100 Discounting",0.5,12.5,2,10.9375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$6.25","50% chance of $100","probabilistic","$100 Discounting",0.5,6.25,3,10.9375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$9.375","50% chance of $100","probabilistic","$100 Discounting",0.5,9.375,4,10.9375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$50","20% chance of $100","certain","$100 Discounting",0.2,50,0,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$25","20% chance of $100","certain","$100 Discounting",0.2,25,1,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$12.5","20% chance of $100","probabilistic","$100 Discounting",0.2,12.5,2,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$18.75","20% chance of $100","probabilistic","$100 Discounting",0.2,18.75,3,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$21.875","20% chance of $100","probabilistic","$100 Discounting",0.2,21.875,4,23.4375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$50","5% chance of $100","certain","$100 Discounting",0.05,50,0,4.6875
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$25","5% chance of $100","certain","$100 Discounting",0.05,25,1,4.6875
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$12.5","5% chance of $100","certain","$100 Discounting",0.05,12.5,2,4.6875
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$6.25","5% chance of $100","certain","$100 Discounting",0.05,6.25,3,4.6875
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$3.125","5% chance of $100","probabilistic","$100 Discounting",0.05,3.125,4,4.6875
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta5","100% chance of pasta10","probabilistic","pasta10 Discounting",1,5,0,9.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta7.5","100% chance of pasta10","probabilistic","pasta10 Discounting",1,7.5,1,9.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta8.75","100% chance of pasta10","probabilistic","pasta10 Discounting",1,8.75,2,9.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta9.375","100% chance of pasta10","probabilistic","pasta10 Discounting",1,9.375,3,9.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta9.6875","100% chance of pasta10","probabilistic","pasta10 Discounting",1,9.6875,4,9.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta5","75% chance of pasta10","certain","pasta10 Discounting",0.75,5,0,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta2.5","75% chance of pasta10","probabilistic","pasta10 Discounting",0.75,2.5,1,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta3.75","75% chance of pasta10","probabilistic","pasta10 Discounting",0.75,3.75,2,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta4.375","75% chance of pasta10","probabilistic","pasta10 Discounting",0.75,4.375,3,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta4.6875","75% chance of pasta10","probabilistic","pasta10 Discounting",0.75,4.6875,4,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta5","50% chance of pasta10","certain","pasta10 Discounting",0.5,5,0,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta2.5","50% chance of pasta10","probabilistic","pasta10 Discounting",0.5,2.5,1,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta3.75","50% chance of pasta10","probabilistic","pasta10 Discounting",0.5,3.75,2,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta4.375","50% chance of pasta10","probabilistic","pasta10 Discounting",0.5,4.375,3,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta4.6875","50% chance of pasta10","probabilistic","pasta10 Discounting",0.5,4.6875,4,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta5","20% chance of pasta10","certain","pasta10 Discounting",0.2,5,0,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta2.5","20% chance of pasta10","certain","pasta10 Discounting",0.2,2.5,1,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta1.25","20% chance of pasta10","probabilistic","pasta10 Discounting",0.2,1.25,2,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta1.875","20% chance of pasta10","probabilistic","pasta10 Discounting",0.2,1.875,3,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta2.1875","20% chance of pasta10","probabilistic","pasta10 Discounting",0.2,2.1875,4,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta5","5% chance of pasta10","certain","pasta10 Discounting",0.05,5,0,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta2.5","5% chance of pasta10","certain","pasta10 Discounting",0.05,2.5,1,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta1.25","5% chance of pasta10","probabilistic","pasta10 Discounting",0.05,1.25,2,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta1.875","5% chance of pasta10","probabilistic","pasta10 Discounting",0.05,1.875,3,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","pasta2.1875","5% chance of pasta10","probabilistic","pasta10 Discounting",0.05,2.1875,4,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$5","100% chance of $10","certain","$10 Discounting",1,5,0,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$2.5","100% chance of $10","probabilistic","$10 Discounting",1,2.5,1,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$3.75","100% chance of $10","probabilistic","$10 Discounting",1,3.75,2,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$4.375","100% chance of $10","probabilistic","$10 Discounting",1,4.375,3,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$4.6875","100% chance of $10","probabilistic","$10 Discounting",1,4.6875,4,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$5","75% chance of $10","certain","$10 Discounting",0.75,5,0,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$2.5","75% chance of $10","probabilistic","$10 Discounting",0.75,2.5,1,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$3.75","75% chance of $10","probabilistic","$10 Discounting",0.75,3.75,2,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$4.375","75% chance of $10","probabilistic","$10 Discounting",0.75,4.375,3,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$4.6875","75% chance of $10","probabilistic","$10 Discounting",0.75,4.6875,4,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$5","50% chance of $10","certain","$10 Discounting",0.5,5,0,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$2.5","50% chance of $10","probabilistic","$10 Discounting",0.5,2.5,1,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$3.75","50% chance of $10","probabilistic","$10 Discounting",0.5,3.75,2,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$4.375","50% chance of $10","probabilistic","$10 Discounting",0.5,4.375,3,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$4.6875","50% chance of $10","probabilistic","$10 Discounting",0.5,4.6875,4,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$5","20% chance of $10","certain","$10 Discounting",0.2,5,0,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$2.5","20% chance of $10","certain","$10 Discounting",0.2,2.5,1,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$1.25","20% chance of $10","probabilistic","$10 Discounting",0.2,1.25,2,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$1.875","20% chance of $10","probabilistic","$10 Discounting",0.2,1.875,3,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$2.1875","20% chance of $10","probabilistic","$10 Discounting",0.2,2.1875,4,2.34375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$5","5% chance of $10","certain","$10 Discounting",0.05,5,0,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$2.5","5% chance of $10","probabilistic","$10 Discounting",0.05,2.5,1,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$3.75","5% chance of $10","probabilistic","$10 Discounting",0.05,3.75,2,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$4.375","5% chance of $10","probabilistic","$10 Discounting",0.05,4.375,3,4.84375
+"P917583","669fc445c9abf8fbccc25454","discountingTrial","","Which would you prefer?","$4.6875","5% chance of $10","probabilistic","$10 Discounting",0.05,4.6875,4,4.84375

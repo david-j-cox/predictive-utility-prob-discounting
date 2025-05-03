@@ -1,0 +1,829 @@
+{
+  "participantId": "P605297",
+  "startTime": "2025-05-03T13:49:58.375Z",
+  "endTime": "2025-05-03T13:56:53.934Z",
+  "consentGiven": true,
+  "taskResults": [
+    {
+      "label": "steak100 Discounting",
+      "maxValue": 100,
+      "unit": "steak",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 7.8125,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 steak"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 7.8125,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 steak"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 92.1875,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 87.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 93.75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 90.625,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 89.0625,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 87.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 93.75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 90.625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 steak"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 98.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 87.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 93.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            },
+            {
+              "certainAmount": 96.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 steak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "$10 Discounting",
+      "maxValue": 10,
+      "unit": "$",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 0.15625,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 0.625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 0.3125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 1.09375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 0.625,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 0.9375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 7.34375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 6.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 7.1875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 9.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 9.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 7.34375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 6.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 7.1875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "steak10 Discounting",
+      "maxValue": 10,
+      "unit": "steak",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 9.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 9.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 9.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 9.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 4.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 3.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 4.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 4.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 9.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 9.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 0.46875,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 0.625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 steak"
+            },
+            {
+              "certainAmount": 0.3125,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 steak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "$100 Discounting",
+      "maxValue": 100,
+      "unit": "$",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 42.1875,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 43.75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 40.625,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 1.5625,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 3.125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 98.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 87.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 93.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 96.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 20.3125,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 18.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 21.875,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 95.3125,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 87.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 93.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 96.875,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fixedChoiceQuestions": [
+    {
+      "id": 6,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    },
+    {
+      "id": 1,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "A"
+    },
+    {
+      "id": 11,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "A"
+    },
+    {
+      "id": 9,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "B"
+    },
+    {
+      "id": 8,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 20,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66 worth of steak",
+      "optionB": "100% Chance of $56 worth of steak",
+      "choice": "A"
+    },
+    {
+      "id": 24,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66 worth of steak",
+      "optionB": "100% Chance of $20 worth of steak",
+      "choice": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66 worth of steak",
+      "optionB": "100% Chance of $56 worth of steak",
+      "choice": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66 worth of steak",
+      "optionB": "100% Chance of $20 worth of steak",
+      "choice": "A"
+    },
+    {
+      "id": 4,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "A"
+    },
+    {
+      "id": 5,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "A"
+    },
+    {
+      "id": 10,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "A"
+    },
+    {
+      "id": 15,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33 worth of steak",
+      "optionB": "100% Chance of $28 worth of steak",
+      "choice": "B"
+    },
+    {
+      "id": 17,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33 worth of steak",
+      "optionB": "100% Chance of $10 worth of steak",
+      "choice": "A"
+    },
+    {
+      "id": 18,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33 worth of steak",
+      "optionB": "100% Chance of $10 worth of steak",
+      "choice": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66 worth of steak",
+      "optionB": "100% Chance of $56 worth of steak",
+      "choice": "A"
+    },
+    {
+      "id": 7,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33 worth of steak",
+      "optionB": "100% Chance of $28 worth of steak",
+      "choice": "A"
+    },
+    {
+      "id": 23,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66 worth of steak",
+      "optionB": "100% Chance of $20 worth of steak",
+      "choice": "A"
+    },
+    {
+      "id": 14,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33 worth of steak",
+      "optionB": "100% Chance of $28 worth of steak",
+      "choice": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33 worth of steak",
+      "optionB": "100% Chance of $10 worth of steak",
+      "choice": "A"
+    }
+  ],
+  "prolificId": "63b6be87ead45e4fa772fbf5",
+  "favoriteFood": "steak",
+  "uploadStatus": "failed"
+}

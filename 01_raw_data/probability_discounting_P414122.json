@@ -1,0 +1,829 @@
+{
+  "participantId": "P414122",
+  "startTime": "2025-05-03T13:48:37.449Z",
+  "endTime": "2025-05-03T13:54:34.890Z",
+  "consentGiven": true,
+  "taskResults": [
+    {
+      "label": "$100 Discounting",
+      "maxValue": 100,
+      "unit": "$",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 73.4375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 62.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 68.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 71.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 1.5625,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 3.125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 14.0625,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 18.75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 15.625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 14.0625,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 18.75,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 15.625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 48.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 43.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            },
+            {
+              "certainAmount": 46.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "$10 Discounting",
+      "maxValue": 10,
+      "unit": "$",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 0.15625,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 0.625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 0.3125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 5.15625,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 5.625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 5.3125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 9.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 9.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 2.34375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.1875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 2.34375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 1.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            },
+            {
+              "certainAmount": 2.1875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "gyros100 Discounting",
+      "maxValue": 100,
+      "unit": "gyros",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 76.5625,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 87.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 81.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 78.125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 1.5625,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 3.125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 4.6875,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 3.125,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 gyros"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 4.6875,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 12.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 6.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 3.125,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 gyros"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 48.4375,
+          "trials": [
+            {
+              "certainAmount": 50,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 37.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 43.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 gyros"
+            },
+            {
+              "certainAmount": 46.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$100 gyros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "gyros10 Discounting",
+      "maxValue": 10,
+      "unit": "gyros",
+      "probabilityData": [
+        {
+          "probability": 1,
+          "indifferencePoint": 2.34375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 1.875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 2.1875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 gyros"
+            }
+          ]
+        },
+        {
+          "probability": 0.75,
+          "indifferencePoint": 9.84375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 9.6875,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 gyros"
+            }
+          ]
+        },
+        {
+          "probability": 0.5,
+          "indifferencePoint": 0.15625,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 0.625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 0.3125,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 gyros"
+            }
+          ]
+        },
+        {
+          "probability": 0.2,
+          "indifferencePoint": 1.09375,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 2.5,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 1.25,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 0.625,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 0.9375,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 gyros"
+            }
+          ]
+        },
+        {
+          "probability": 0.05,
+          "indifferencePoint": 8.90625,
+          "trials": [
+            {
+              "certainAmount": 5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 7.5,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 8.75,
+              "choice": "probabilistic",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 9.375,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 gyros"
+            },
+            {
+              "certainAmount": 9.0625,
+              "choice": "certain",
+              "uncertainOutcomeLabel": "$10 gyros"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fixedChoiceQuestions": [
+    {
+      "id": 1,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66 worth of gyros",
+      "optionB": "100% Chance of $56 worth of gyros",
+      "choice": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33",
+      "optionB": "100% Chance of $28",
+      "choice": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66 worth of gyros",
+      "optionB": "100% Chance of $20 worth of gyros",
+      "choice": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33 worth of gyros",
+      "optionB": "100% Chance of $10 worth of gyros",
+      "choice": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66 worth of gyros",
+      "optionB": "100% Chance of $20 worth of gyros",
+      "choice": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33 worth of gyros",
+      "optionB": "100% Chance of $28 worth of gyros",
+      "choice": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $33",
+      "optionB": "100% Chance of $10",
+      "choice": "B"
+    },
+    {
+      "id": 20,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66 worth of gyros",
+      "optionB": "100% Chance of $56 worth of gyros",
+      "choice": "B"
+    },
+    {
+      "id": 17,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33 worth of gyros",
+      "optionB": "100% Chance of $10 worth of gyros",
+      "choice": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 8,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 14,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $33 worth of gyros",
+      "optionB": "100% Chance of $28 worth of gyros",
+      "choice": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which would you prefer?",
+      "optionA": "30% Chance of $66",
+      "optionB": "100% Chance of $56",
+      "choice": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66 worth of gyros",
+      "optionB": "100% Chance of $56 worth of gyros",
+      "choice": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66 worth of gyros",
+      "optionB": "100% Chance of $20 worth of gyros",
+      "choice": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which would you prefer?",
+      "optionA": "60% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33 worth of gyros",
+      "optionB": "100% Chance of $10 worth of gyros",
+      "choice": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $33 worth of gyros",
+      "optionB": "100% Chance of $28 worth of gyros",
+      "choice": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which would you prefer?",
+      "optionA": "85% Chance of $66",
+      "optionB": "100% Chance of $20",
+      "choice": "B"
+    }
+  ],
+  "prolificId": "67c111bb12926008b56bc878",
+  "favoriteFood": "gyros",
+  "uploadStatus": "failed"
+}
